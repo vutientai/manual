@@ -23,10 +23,4 @@ Bước 5: Để đăng nhập vào Nhanh.vn, bạn truy cập vào website [
 
 Bước 6: Sau khi đăng nhập thành công, bạn click vào chữ Trang quản trị ở góc trên bên phải màn hình để bắt đầu sử dụng phần mềm Nhanh.vn.
 
-Video hướng dẫn chi tiết:
-
-<iframe src="https://www.youtube.com/embed/LymV4oRaLUw?rel=0" width="853" height="480" frameborder="0"></iframe>
-
-</div>
-
-This document has been edited with the [instant web content converting tool](https://htmled.it/) which can be found at htmleditor.tools - give it a try.
+Video hướng dẫn chi tiết: https://www.youtube.com/watch?v=LymV4oRaLUw
