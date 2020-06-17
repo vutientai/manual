@@ -10,7 +10,7 @@ Các giải pháp mà Nhanh.vn cung cấp bao gồm:
 
 ## I. Quy trình sử dụng phần mềm quản lý bán hàng Nhanh.vn như sau
 
-<table class="table table-bordered">
+<table>
 
 <tbody>
 
@@ -18,19 +18,19 @@ Các giải pháp mà Nhanh.vn cung cấp bao gồm:
 
 <td>
 
-1\. [Đăng ký và Đăng nhập](https://nhanh.vn/manual/item/view?id=446)
+1. [Đăng ký và Đăng nhập](https://nhanh.vn/manual/item/view?id=446)
 
 </td>
 
 <td>
 
-2\. [Cài đặt ban đầu](/setting/store/index)
+2. [Cài đặt ban đầu](https://nhanh.vn/setting/store/index)
 
 </td>
 
 <td>
 
-3\. [Nhập sản phẩm lên phần mềm](/product/item/index)
+3. [Nhập sản phẩm lên phần mềm](https://nhanh.vn/product/item/index)
 
 </td>
 
@@ -40,19 +40,19 @@ Các giải pháp mà Nhanh.vn cung cấp bao gồm:
 
 <td>
 
-4\. [Nhập hàng](/product/imex/index)
+4. [Nhập hàng](https://nhanh.vn/product/imex/index)
 
 </td>
 
 <td>
 
-5\. [Bán hàng](/pos/bill/add2)
+5. [Bán hàng](https://nhanh.vn/pos/bill/add2)
 
 </td>
 
 <td>
 
-6\. [Quản lý đơn hàng online](/order/manage/index)
+6. [Quản lý đơn hàng online](https://nhanh.vn/order/manage/index)
 
 </td>
 
@@ -62,19 +62,19 @@ Các giải pháp mà Nhanh.vn cung cấp bao gồm:
 
 <td>
 
-7. [Quản lý khách hàng](/customer/code/customerlist)
+7. [Quản lý khách hàng](https://nhanh.vn/customer/code/customerlist)
 
 </td>
 
 <td>
 
-8\. [Quản trị website](/website/content/index)
+8. [Quản trị website](https://nhanh.vn/website/content/index)
 
 </td>
 
 <td>
 
-9\. [Tạo khuyến mại](/promotion/manage/index)
+9. [Tạo khuyến mại](https://nhanh.vn/promotion/manage/index)
 
 </td>
 
@@ -84,17 +84,15 @@ Các giải pháp mà Nhanh.vn cung cấp bao gồm:
 
 <td>
 
-10\. [Kế toán](/accounting/transaction/index)
+10. [Kế toán](https://nhanh.vn/accounting/transaction/index)
 
 </td>
 
 <td>
 
-11\. [Xem báo cáo bán hàng](/report/revenue/index)
+11. [Xem báo cáo bán hàng](https://nhanh.vn/report/revenue/index)
 
 </td>
-
-<td></td>
 
 </tr>
 
@@ -104,15 +102,15 @@ Các giải pháp mà Nhanh.vn cung cấp bao gồm:
 
 ## II. Giới thiệu chung về các phần chính của hệ thống
 
-<table class="table table-bordered">
+<table>
 
 <thead>
 
 <tr>
 
-<th style="text-align:left;" width="20%">Tên</th>
+<th width="20%">Tên</th>
 
-<th style="text-align:left;">Ý nghĩa</th>
+<th>Ý nghĩa</th>
 
 </tr>
 
@@ -329,5 +327,5 @@ Công cụ hỗ trợ từ xa giúp nhân viên kỹ thuật của Nhanh.vn hỗ
 
 Bạn có thể tải về miễn phí một trong các phần mềm sau để được hỗ trợ:
 
-*   Phần mềm Ultraviewer (dành cho máy tính Windows) >> [Tải về Ultraviewer](https://ultraviewer.net/vi/UltraViewer_setup_6.1_vi.exe) <<
-*   Phần mềm Anydesk (dành cho mọi hệ điều hành) >> [Tải về Anydesk](https://anydesk.com/platforms/windows) <<
+*   Phần mềm Ultraviewer (dành cho máy tính Windows) >> [Tải về Ultraviewer](https://ultraviewer.net/vi/UltraViewer_setup_6.1_vi.exe) <<
+*   Phần mềm Anydesk (dành cho mọi hệ điều hành) >> [Tải về Anydesk](https://anydesk.com/platforms/windows) <<
