@@ -20,3 +20,8 @@ Bạn có thể gửi thông tin đơn hàng tới hãng vận chuyển, bưu t�
 * Xem hướng dẫn kết nối hãng vận chuyển tại đây. (Cần cập nhật link)
 * Xem hướng dẫn thanh toán đối soát tại đây.  (Cần cập nhật link)
 * Xem các báo cáo đơn hàng tại đây. (Cần cập nhật link)
+
+## Phân biệt khái niệm đơn hàng và hóa đơn bán hàng
+
+- Đơn hàng là
+- Hóa đơn bán hàng là
