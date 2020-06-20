@@ -13,6 +13,10 @@
 * [Phân quyền nhân viên](cai-dat-ban-dau/phan-quyen-nhan-vien.md)
 * [Cài đặt driver máy in mã vạch, máy in hóa đơn](cai-dat-ban-dau/cai-dat-driver-may-in-ma-vach-may-in-hoa-don.md)
 
+## Sản phẩm
+
+* [Giới thiệu về Sản phẩm](san-pham/gioi-thieu.md)
+
 ## Đơn hàng
 
 * [Giới thiệu về Đơn hàng](don-hang/gioi-thieu.md)
