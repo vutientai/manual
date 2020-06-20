@@ -4,13 +4,13 @@
 
 ## Khái niệm
 
-* Đơn hàng dùng để quản lý đơn hàng từ nhiều nguồn khác nhau:
+* Đơn hàng là module dùng để quản lý từ nhiều nguồn khác nhau:
   * Đơn đặt từ website.
   * Đơn tạo từ Facebook Fanpage.
   * Đơn đồng bộ từ các sàn thương mại điện tử \(Lazada, Tiki, Sendo, Shopee\).
   * Chăm sóc khách hàng tạo đơn hàng.
   * Cộng tác viên tạo đơn hàng.
-  * Đồng bộ đơn hàng từ hệ thống khác qua [API](https://developers.nhanh.vn/)
+  * Đồng bộ đơn hàng từ hệ thống khác qua [API](https://developers.nhanh.vn/).
   
 ### Phân biệt khái niệm đơn hàng và hóa đơn bán hàng
 - Đơn hàng là ...
