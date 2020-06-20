@@ -1,7 +1,7 @@
 {
   "gitbook": "3.2.2",
   "root": "./docs",
-  "title": "Nhanh.vn API",
+  "title": "Hướng dẫn sử dụng Nhanh.vn",
   "plugins": ["prism", "-highlight", "github", "anchorjs"],
   "pluginsConfig": {
     "github": {
