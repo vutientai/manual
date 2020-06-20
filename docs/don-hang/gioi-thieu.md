@@ -9,6 +9,7 @@
   * Cộng tác viên tạo đơn hàng.
 
 * Bạn có thể gửi thông tin đơn hàng tới hãng vận chuyển, bưu tá sẽ tới kho hàng lấy hàng, giao hãng cho khách mua hàng, và thanh toán tiền thu hộ cho chủ shop.
-  * Xem hướng dẫn kết nối hãng vận chuyển tại đây.
-  * Xem hướng dẫn thanh toán đối soát tại đây
-  * Xem các báo cáo đơn hàng tại đây
+
+  * Xem hướng dẫn kết nối hãng vận chuyển tại đây. (Cần cập nhật link)
+  * Xem hướng dẫn thanh toán đối soát tại đây.  (Cần cập nhật link)
+  * Xem các báo cáo đơn hàng tại đây. (Cần cập nhật link)
