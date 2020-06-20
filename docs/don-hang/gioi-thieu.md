@@ -11,7 +11,9 @@
 
 --- 
 
-## Các vấn đề thường gặp
+## Quy trình xử lý đơn hàng
+
+(Chèn ảnh quy trình tại đây)
 
 Bạn có thể gửi thông tin đơn hàng tới hãng vận chuyển, bưu tá sẽ tới kho hàng lấy hàng, giao hãng cho khách mua hàng, và thanh toán tiền thu hộ cho chủ shop.
 
