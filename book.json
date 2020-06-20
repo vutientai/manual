@@ -1,0 +1,16 @@
+{
+  "gitbook": "3.2.2",
+  "root": "./docs",
+  "title": "Nhanh.vn API",
+  "plugins": ["prism", "-highlight", "github", "anchorjs"],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/nhanhapi/manual"
+    },
+    "theme-default": {
+      "styles": {
+        "website": "build/gitbook.css"
+      }
+    },
+  }
+}
