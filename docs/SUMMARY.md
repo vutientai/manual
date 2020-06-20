@@ -3,9 +3,9 @@
 * [Giới thiệu](README.md)
 
 ## Đăng kí / Đăng nhập
-* [Đăng kí tài khoản](getting-started/signup.md)
-* [Đăng nhập vào hệ thống](getting-started/signin.md)
-* [Một số lỗi thường gặp](getting-started/errors.md)
+* [Đăng kí tài khoản](user/signup.md)
+* [Đăng nhập vào hệ thống](user/signin.md)
+* [Một số lỗi thường gặp](user/error.md)
 
 ## Cài đặt ban đầu
 * [Phân quyền nhân viên](setting/role.md)
