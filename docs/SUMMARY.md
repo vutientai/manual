@@ -15,5 +15,5 @@
 
 ## Đơn hàng
 
-* [Giới thiệu về Đơn hàng](don-hang/order.md)
+* [Giới thiệu về Đơn hàng](don-hang/gioi-thieu.md)
 
