@@ -10,7 +10,7 @@
 
 ## Cài đặt
 
-* Phân quyền nhân viên
+* [Phân quyền nhân viên](cai-dat/phan-quyen-nhan-vien.md)
 * Cài đặt đơn hàng
   * [Cài đặt đơn hàng](cai-dat/don-hang/cai-dat-don-hang.md)
   * [Kết nối hãng vận chuyển](cai-dat/don-hang/ket-noi-hang-van-chuyen.md)
