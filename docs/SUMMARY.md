@@ -8,12 +8,6 @@
 * [Đăng nhập vào hệ thống](tai-khoan/signin.md)
 * [Một số lỗi thường gặp](tai-khoan/error.md)
 
-## Cài đặt ban đầu
-
-* [Phân quyền nhân viên](cai-dat-ban-dau/phan-quyen-nhan-vien.md)
-* [Cài đặt driver máy in mã vạch, máy in hóa đơn](cai-dat-ban-dau/cai-dat-driver-may-in-ma-vach-may-in-hoa-don.md)
-* [Kết nối vận chuyển bằng tài khoản của shop](cai-dat-ban-dau/ket-noi-van-chuyen-bang-tai-khoan-cua-shop.md)
-
 ## Cài đặt
 
 * Phân quyền nhân viên
