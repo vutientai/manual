@@ -12,7 +12,7 @@
 
 * [Phân quyền nhân viên](cai-dat-ban-dau/phan-quyen-nhan-vien.md)
 * [Cài đặt driver máy in mã vạch, máy in hóa đơn](cai-dat-ban-dau/cai-dat-driver-may-in-ma-vach-may-in-hoa-don.md)
-* [Kết nối vận chuyển bằng tài khoản của shop](cai-dat-ban-dau/ket-noi-van-chuyen-voi-tai-khoan-cua-shop.md)
+* [Kết nối vận chuyển bằng tài khoản của shop](cai-dat-ban-dau/ket-noi-van-chuyen-bang-tai-khoan-cua-shop.md)
 
 ## Sản phẩm
 
