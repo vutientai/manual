@@ -9,7 +9,7 @@
     },
     "theme-default": {
       "styles": {
-        "website": "build/gitbook.css"
+        "website": "./docs/styles/gitbook.css"
       }
     }
   }
