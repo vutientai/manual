@@ -10,7 +10,7 @@
 
 ---
 
- ## Thông tin cước phí:
+ ## Thông tin cước phí
  
  - Cước phí được chia ra làm 3 khái niệm chính:
   - Phí vận chuyển: ...
