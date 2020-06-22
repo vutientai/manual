@@ -18,8 +18,9 @@
 
 * Phân quyền nhân viên
 * Cài đặt đơn hàng
+  * [Cài đặt đơn hàng](cai-dat/don-hang/cai-dat-don-hang.md)
   * [Kết nối vận chuyển](cai-dat/don-hang/ket-noi-van-chuyen.md)
-  * Cài đặt phí vận chuyển
+  * Cài đặt phí vận chuyển(cai-dat/don-hang/cai-dat-phi-van-chuyen.md)
 
 ## Sản phẩm
 
