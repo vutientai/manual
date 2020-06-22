@@ -7,7 +7,7 @@
 - Bạn có thể cài đặt để luôn lấy theo cước phí của hãng vận chuyển, hoặc theo các quy tắc khác nhau, VD như:
   - Các quận nội thành 20K, các quận ngoài thành 30K, toàn quốc 35K.
   - Đơn trên 500K thì được miễn cước vận chuyển.
-  
+
  ## Thông tin cước phí:
  
  - Cước phí được chia ra làm 3 khái niệm chính:
