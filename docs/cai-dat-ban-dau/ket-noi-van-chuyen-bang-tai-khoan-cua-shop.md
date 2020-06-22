@@ -6,8 +6,14 @@
 
 ## Kết nối với Vietnam Post (Đang cập nhật)
 
-## Kết nối với Ecotrans (Đang cập nhật)
+## Kết nối với Ecotrans
 
+### Lấy token tài khoản
+
+* Bạn truy cập vào https://khachhang.ecotrans.vn/profile để lấy token
+![Lấy token tài khoản Ecotrans](https://github.com/nhanhapi/manual/blob/master/docs/cai-dat-ban-dau/img/ket-noi-ecotrans-1.jpg)
+
+### Kết nối tài khoản
 * Bạn truy cập vào Cài đặt / Vận chuyển, tìm đến hãng Ecotrans, click nút Kết nối
 * Điền token kết nối, sau đó click Lưu
 ![Kết nối với Ecotrans](https://github.com/nhanhapi/manual/blob/master/docs/cai-dat-ban-dau/img/ket-noi-ecotrans.jpg)
