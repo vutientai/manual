@@ -49,7 +49,3 @@
 
 * [Giới thiệu về Bảo hành](bao-hanh/gioi-thieu.md)
 
-## Import
-
-* [Giới thiệu về Import](import/gioi-thieu.md)
-
