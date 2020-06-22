@@ -14,6 +14,13 @@
 * [Cài đặt driver máy in mã vạch, máy in hóa đơn](cai-dat-ban-dau/cai-dat-driver-may-in-ma-vach-may-in-hoa-don.md)
 * [Kết nối vận chuyển bằng tài khoản của shop](cai-dat-ban-dau/ket-noi-van-chuyen-bang-tai-khoan-cua-shop.md)
 
+## Cài đặt ban đầu
+
+* Phân quyền nhân viên
+* Cài đặt đơn hàng
+  * [Kết nối vận chuyển](cai-dat/don-hang/ket-noi-van-chuyen.md)
+  * Cài đặt phí vận chuyển
+
 ## Sản phẩm
 
 * [Giới thiệu về Sản phẩm](san-pham/gioi-thieu.md)
