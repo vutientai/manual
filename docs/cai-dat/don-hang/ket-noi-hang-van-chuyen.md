@@ -1,6 +1,5 @@
 # Kết nối vận chuyển
-- Kết nối vận chuyển giúp bạn nhập liệu các thông tin đơn hàng trên Nhanh.vn và đồng bộ trực tiếp thông tin đơn hàng sang các 
-hãng vận chuyển mà không cần phải nhập liệu lại thông tin qua hãng vận chuyển
+- Kết nối vận chuyển giúp bạn nhập liệu các thông tin đơn hàng trên Nhanh.vn và đồng bộ trực tiếp thông tin đơn hàng sang các hãng vận chuyển mà không cần phải nhập liệu lại thông tin qua hãng vận chuyển
 - Nhanh.vn hỗ trợ 2 hình thức kết nối:
 
 ## Kết nối có sẵn trên Nhanh.vn
