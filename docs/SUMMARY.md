@@ -20,7 +20,7 @@
 * Cài đặt đơn hàng
   * [Cài đặt đơn hàng](cai-dat/don-hang/cai-dat-don-hang.md)
   * [Kết nối hãng vận chuyển](cai-dat/don-hang/ket-noi-hang-van-chuyen.md)
-  * Cài đặt phí vận chuyển(cai-dat/don-hang/cai-dat-phi-van-chuyen.md)
+  * [Cài đặt phí vận chuyển](cai-dat/don-hang/cai-dat-phi-van-chuyen.md)
 
 ## Sản phẩm
 
