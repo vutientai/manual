@@ -28,5 +28,5 @@ Thất bại | Nếu hãng vận chuyển gửi hàng đến khách hàng nhưng
 Đã chuyển hoàn | Doanh nghiệp nhận lại hàng Đang chuyển hoàn và tự đổi sang trạng thái Đã chuyển hoàn
 Thành công | Khi đơn hàng đã gửi cho khách thì hãng/doanh nghiệp cần đổi sang trạng thái thành công.
 
-**Bạn có thể tham khảo video hướng dẫn trạng thái sản phẩm và đơn hàng tại đây:**
+**Bạn có thể tham khảo video hướng dẫn trạng thái sản phẩm và đơn hàng [Tại đây](http://github.com)**
 ### **2. Biên bản bàn giao**
