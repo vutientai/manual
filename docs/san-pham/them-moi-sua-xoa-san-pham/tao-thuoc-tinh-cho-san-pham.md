@@ -6,6 +6,7 @@ Doanh nghiệp bán cả quần áo và điện thoại, cần có các thuộc 
 Nhóm thuộc tính|Tên thuộc tính|Giá trị
 --------|------|--------
 Điện thoại|Dung lượng
+          |Tình trạng
           
 ## 2. Cách tạo thuộc tính.
 
