@@ -15,7 +15,7 @@ Lưu ý: Khi 1 nhân viên click vào đơn hàng để xác nhận, hệ thốn
 
 **Bước 2:** Giao diện làm việc của module Xác nhận đơn hàng như sau. Ở khâu thao tác này, nhân viên chăm sóc khách hàng (CSKH) của doanh nghiệp cần xác nhận với khách hàng tất cả thông tin về đơn hàng và thay đổi trạng thái đơn hàng.
 
-![Giao diện module Xác nhận đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/xac-nhan-don-hang-2.png)
+![Giao diện module Xác nhận đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/xac-nhan-%20don-hang-2.png)
 
 Tình trạng:
 
