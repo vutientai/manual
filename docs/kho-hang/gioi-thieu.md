@@ -24,3 +24,8 @@ Các loại ID, bao gồm:
 | ID sản phẩm kiểm kho | Trong mỗi phiếu kiểm kho có thể có 1 hoặc nhiều sản phẩm được kiểm kho, mối sản phẩm trong phiếu kiểm kho được hệ thống gắn cho 1 ID riêng|
 | ID phiếu bảo hành | Khi khách hàng mang sản phẩm đến bạn để bảo hành hoặc sửa chữa, hệ thống sẽ sinh phiếu bảo hành và gắn ID riêng cho phiếu bảo hành đó|
 | ID phiếu XNK bị xóa | Khi xóa 1 phiếu XNK trong danh sách phiếu XNK thì ID của phiếu XNK đó cũng chính là ID trong danh sách phiếu XNK bị xóa|
+
+Loại XNK: bao gồm Xuất kho và Nhập kho
+
+Kiểu XNK: bao gồm:
+| Kiểu Xuất nhập kho | 
