@@ -24,6 +24,10 @@
 
 * [Giới thiệu về Kho hàng](kho-hang/gioi-thieu.md)
 
+## Bán hàng
+
+* [Giới thiệu về Bán hàng](ban-hang/gioi-thieu.md)
+
 ## Đơn hàng
 
 * [Giới thiệu về Đơn hàng](don-hang/gioi-thieu.md)
