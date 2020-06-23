@@ -74,6 +74,12 @@ Tập hợp các đơn hàng cùng 1 hãng vận chuyển -> tạo biên bản b
 Chỉ đối soát các đơn hàng gửi cho hãng vận chuyển, thao tác này thì Nhanh.vn sẽ thực hiện -> sau khi đã đối soát xong sẽ chuyển tiền hàng về cho doanh nghiệp, cá nhân qua các tài khoản đã đăng ký trên Nhanh.vn.
 
 ### **10. Tạo phiếu thu ghi nhận tiền thanh toán**
-ới doanh nghiệp dùng kế toán thì sẽ tự tạo phiếu thu bằng tay để ghi nhận tiền hàng nhận được do doanh nghiệp thu hoặc do nhanh.vn gửi cho doanh nghiệp. Gắn ID chứng từ theo phiếu XNK [G] được tạo ra khi đơn hàng thành công, để lấy được ID chứng từ này: cách 1 lọc ID đơn hàng ở danh sách phiếu XNK; cách 2 vào trang chi tiết đơn hàng -> kích vào ngày nhận, sẽ trỏ đến phiếu XNK [G] đã tạo.
+Với doanh nghiệp dùng kế toán thì sẽ tự tạo phiếu thu bằng tay để ghi nhận tiền hàng nhận được do doanh nghiệp thu hoặc do nhanh.vn gửi cho doanh nghiệp. Gắn ID chứng từ theo phiếu XNK [G] được tạo ra khi đơn hàng thành công, để lấy được ID chứng từ này: cách 1 lọc ID đơn hàng ở danh sách phiếu XNK; cách 2 vào trang chi tiết đơn hàng -> kích vào ngày nhận, sẽ trỏ đến phiếu XNK [G] đã tạo.
 
 **Lưu ý:** Quy trình xử lý đơn hàng hiện tại trên nhanh là:
+1. Doanh nghiệp tạo đơn.
+2. Gửi đơn sang hãng vận chuyển.
+3. Khi hãng vận chuyển thay đổi trạng thái -> Cập nhật lịch trình về Nhanh.
+4. Khi đơn hàng giao Thành công hoặc Chuyển hoàn về, hãng vận chuyển đối soát với Nhanh.
+Nhanh sẽ check các thông tin về khối lượng | tiền cần thu | giá cước (xem có phí vượt cân, có đúng với giá cước theo hợp đồng không) => Khớp các giá trị trên sẽ chốt đối soát với hãng vận chuyển, sau đó Nhanh sẽ chuyển lại tiền này cho doanh nghiệp.
+Khi sử dụng vận chuyển trên Nhanh thì các bước 2,3,4 trên là do Nhanh làm, còn với doanh nghiệp Tự vận chuyển thì sẽ tự làm các bước đổi trạng thái, đối soát, chốt tiền.
