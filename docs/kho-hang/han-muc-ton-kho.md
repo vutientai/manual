@@ -31,5 +31,5 @@ Sau khi nhập hạn mức tồn kho cho sản phẩm, danh sách hạn mức t�
 
 Lưu ý: Số tồn tối thiểu và tối đa sẽ có màu xanh nếu tồn hiện tại nằm trong hạn mức, có màu đỏ nếu tồn hiện tại nằm ngoài hạn mức.
 
-2. Tra cứu hạn mức tồn kho
+## 2. Tra cứu hạn mức tồn kho
 Tại Danh sách hạn mức tồn kho có bộ lọc giúp doanh nghiệp có thể lọc ra các sản phẩm đang tồn dưới hạn mức tối thiểu hoặc trên hạn mức tối đa, từ đó đưa ra kế hoạch nhập hàng hoặc xả hàng cho phù hợp.
