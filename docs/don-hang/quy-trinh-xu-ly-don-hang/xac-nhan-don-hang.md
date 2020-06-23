@@ -12,3 +12,14 @@ Liệt kê tất cả các đơn hàng cần xác nhận: Tại [Danh sách đơ
 Nhân viên click vào những đơn hàng Mới (chưa có ai xác nhận) và những đơn hàng Chờ khách xác nhận (chưa gọi được cho khách) để xác nhận các đơn hàng đó.
 
 Lưu ý: Khi 1 nhân viên click vào đơn hàng để xác nhận, hệ thống sẽ chặn không cho nhân viên khác xác nhận đơn hàng đó ==> loại bỏ tình huống nhân viên xác nhận trùng khách.
+
+**Bước 2:** Giao diện làm việc của module Xác nhận đơn hàng như sau. Ở khâu thao tác này, nhân viên chăm sóc khách hàng (CSKH) của doanh nghiệp cần xác nhận với khách hàng tất cả thông tin về đơn hàng và thay đổi trạng thái đơn hàng.
+
+Tình trạng
+**Mới:** Áp dụng với đơn hàng vừa mới tạo.
+**Chờ xác nhận:** Áp dụng với đơn hàng đang chờ người bán xác nhận.
+**Đã xác nhận:** Áp dụng với đơn hàng khách đồng ý nhận hàng.
+**Đang xác nhận:** Áp dụng với đơn hàng chưa liên hệ được với khách hoặc lý do khác khiến khách chưa muốn nhận hàng.
+**Khách hủy:** Áp dụng với đơn hàng khách không đồng ý nhận hàng
+**Hệ thống hủy:** Áp dụng với đơn hàng không liên hệ được với khách, hoặc hết hàng, hoặc lý do khác
+**Thất bại:** Áp dụng với đơn hàng giao không thành công
