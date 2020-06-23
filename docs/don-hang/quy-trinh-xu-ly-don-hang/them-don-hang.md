@@ -46,7 +46,9 @@ Có 3 tùy chọn sau khi lưu dữ liệu: Tiếp tục thêm đơn hàng, Về
 Có 2 tùy chọn lưu dữ liệu: Lưu (ấn F2) hoặc Lưu và in phiếu gửi (ấn F4).
 
 Giao diện nhập liệu đầy đủ của tab Thêm đơn hàng dùng hãng vận chuyển như sau:
-[them-don-hang-4](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/them-%20don-hang-4.png)
+
+![them-don-hang-4](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/them-%20don-hang-4.png)
+
 ### **B. Đối với doanh nghiệp tự vận chuyển**
 
 
