@@ -25,15 +25,15 @@ Nhân viên kiểm soát viên/nhân viên đối soát viên | Quyền dùng đ
 ## Phân quyền nhóm nhân viên
 Nhanh.vn có các nhóm quyền phù hợp với từng bộ phận của doanh nghiệp. Tuy nhiên doanh nghiệp cũng có thể thêm/bớt các quyền trong nhóm quyền đó, bằng cách tích vào các quyền trong tab Phân quyền nhóm nhân viên.
 
-Lưu ý, bạn có thể tìm kiếm tính năng thông qua thanh tìm kiếm, click vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-2.PNG?token=AQA4NCRA2XPDE272AW5E4S266GEW6) để hiển thị thanh công cụ tìm kiếm và click vào ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-3.PNG?token=AQA4NCV5SEPQDJ5WFLLIIRS66GFRK) để thu gọn thanh công cụ tìm kiếm 
+Lưu ý, bạn có thể tìm kiếm tính năng thông qua thanh tìm kiếm, click vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-2.PNG) để hiển thị thanh công cụ tìm kiếm và click vào ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-3.PNG) để thu gọn thanh công cụ tìm kiếm 
 
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-4.PNG?token=AQA4NCQNMQMPW5T26GJGFXK66GE42)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-4.PNG)
 ## Phân quyền nhân viên
 Dùng trong trường hợp bạn muốn phân quyền riêng cho nhân viên, quy trình thao tác như sau: nhập Tên/user của nhân viên => So sánh với nhóm quyền/nhân viên khác (không bắt buộc) ==> click Lọc ==> Tích chọn các quyền muốn phân cho nhân viên ==> click Lưu.
 
 Lưu ý:
 
-- Bạn click vào nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-5.PNG?token=AQA4NCTYNL5X5KCFI2UVFXS66GGJC) để hệ thống load lại các quyền mặc định của nhân viên trước khi tích thêm/bớt quyền cho nhân viên đó
+- Bạn click vào nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-5.PNG) để hệ thống load lại các quyền mặc định của nhân viên trước khi tích thêm/bớt quyền cho nhân viên đó
 - Để chuyển về phân quyền mặc định, doanh nghiệp click vào nút Chuyển về phân quyền mặc định.
 ## Phân quyền xem dữ liệu
 Cho phép doanh nghiệp giới hạn nhân viên chỉ xem được một số dữ liệu do chính nhân viên đó tạo, mà không xem được của nhân viên khác.
@@ -47,4 +47,12 @@ Một số lưu ý tại cài đặt này:
 1. Giới hạn quyền xem Danh sách hóa đơn bán lẻ:
 - Tích chọn cài đặt này: Tất cả nhân viên chỉ được nhìn thấy các hóa đơn do nhân viên đó tạo.
 - Cài đặt nâng cao: Giới hạn theo từng nhóm quyền và số ngày xem (nếu có). Lưu ý khi sử dụng cài đặt nâng cao, bạn cần bỏ tích chọn ở cài đặt chung.
-
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-6.PNG)
+2. Giới hạn quyền xem Danh sách đơn hàng
+- Tích chọn cài đặt này: Giới hạn tất cả nhân viên chỉ được nhìn thấy các đơn hàng do nhân viên đó tạo.
+- Cài đặt nâng cao: Giới hạn theo từng nhóm quyền và số ngày xem (nếu có). Lưu ý khi sử dụng cài đặt nâng cao, bạn cần bỏ tích chọn ở cài đặt chung.
+- Chi tiết đơn hàng: Cho phép nhân viên xem được chi tiết đơn hàng do nhân viên khác tạo khi có cài đặt giới hạn xem danh sách đơn hàng theo nhân viên tạo.
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-7.PNG)
+3. Giới hạn quyền xem Chi tiết sản phẩm
+- Tích chọn cài đặt này: Giới hạn nhân viên chỉ xem được tồn kho trong kho mình quản lý ở trang chi tiết sản phẩm.
+- Cài đặt nâng cao: Giới hạn theo từng nhóm quyền và số ngày xem (nếu có). Lưu ý khi sử dụng cài đặt nâng cao, bạn cần bỏ tích chọn ở cài đặt chung.
