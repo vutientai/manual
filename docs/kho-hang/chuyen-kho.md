@@ -3,7 +3,7 @@
 Khi quản lý nhiều cửa hàng và muốn chuyển hàng từ cửa hàng này sang cửa hàng khác, bạn dùng tính năng Chuyển kho.
 
 Ví dụ: Bạn có 2 kho, muốn chuyển bớt 3 chiếc 'Quần HM 001 - Đen ZZZ ' từ kho A sang kho B, quy trình như sau:
-## Bước 1: Kho 1 tạo phiếu chuyển kho [tại đây](https://new.nhanh.vn/inventory/transfer/add)
+## Bước 1: Kho A tạo phiếu chuyển kho [tại đây](https://new.nhanh.vn/inventory/transfer/add)
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/tao-phieu-ck.png)
 
 ## Hệ thống sẽ sinh ra:
