@@ -28,4 +28,17 @@ Các loại ID, bao gồm:
 Loại XNK: bao gồm Xuất kho và Nhập kho
 
 Kiểu XNK: bao gồm:
-| Kiểu Xuất nhập kho | 
+
+| Kiểu Xuất nhập kho | Ý nghĩa |
+|--------------------|---------|
+| [N] Nhà cung cấp | Nhập hàng từ nhà cung cấp, xuất trả lại hàng cho nhà cung cấp|
+| [C] Chuyển kho | Chuyển hàng giữa các kho trong doanh nghiệp của bạn|
+| [G] Giao hàng | Xuất bán online, nhập lại đơn hàng bị chuyển hoàn|
+| [L] Bán lẻ | Xuất bán lẻ, Nhập lại trong trường hợp khách trả lại hàng|
+| [B] Bán buôn | Xuất bán buôn, Nhập lại trong trường hợp khách trả lại hàng|
+| [T] Hàng tặng kèm | Xuất hàng tặng kèm khi mua sản phẩm, Nhập lại trong trường hợp khách trả lại sản phẩm và hàng tặng kèm|
+| [K] Bù trừ kiểm kho | Hệ thống tự động tạo các phiếu Xuất hoặc Nhập kho để bù trừ lại số lượng chênh lệch giữa tồn trên hệ thống và tồn thực tế khi kiểm kho|
+| [#] Kiểu khác | Xuất nhập kho này không ghi nhận vào doanh thu|
+| [BH] Bảo hành, [SC] Sửa chữa | Nhập hàng để bảo hành, sửa chữa, Xuất trả hàng cho khách|
+| [TTBH] Trung tâm bảo hành | Bạn xuất hàng sang Trung tâm bảo hành để bảo hành, sửa chữa máy, và Nhập hàng từ Trung tâm bảo hành về kho của bạn khi quá trình bảo hành sửa chữa hoàn tất|
+| [LKBH] Linh kiện bảo hành | Dùng để Xuất, nhập linh kiện phụ vụ cho việc bảo hành, sửa chữa |
