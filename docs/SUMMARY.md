@@ -27,9 +27,9 @@
 
 * [Giới thiệu về Sản phẩm](san-pham/gioi-thieu.md)
 * Thêm mới, sửa, xóa sản phẩm
- * [Thêm mới, sửa, xóa sản phẩm](san-pham/them-moi-sua-xoa-san-pham/them-moi-sua-xoa-san-pham.md)
- * [Danh sách sản phẩm](san-pham/them-moi-sua-xoa-san-pham/danh-sach-san-pham.md)
- * [Tạo thuộc tính cho sản phẩm](san-pham/tao-thuoc-tinh-cho-san-pham.md)
+  * [Thêm mới, sửa, xóa sản phẩm](san-pham/them-moi-sua-xoa-san-pham/them-moi-sua-xoa-san-pham.md)
+  * [Danh sách sản phẩm](san-pham/them-moi-sua-xoa-san-pham/danh-sach-san-pham.md)
+  * [Tạo thuộc tính cho sản phẩm](san-pham/tao-thuoc-tinh-cho-san-pham.md)
 * [Danh mục sản phẩm](san-pham/danh-muc-san-pham.md)
 * [Nhà cung cấp](san-pham/nha-cung-cap.md)
 * [Thương hiệu](san-pham/thuong-hieu.md)
@@ -51,12 +51,12 @@
 
 * [Giới thiệu về Đơn hàng](don-hang/gioi-thieu.md)
 * Quy trình xử lý đơn hàng
- * [Thêm đơn hàng](don-hang/quy-trinh-xu-ly-don-hang/them-don-hang.md)
- * [Xác nhận đơn hàng](don-hang/quy-trinh-xu-ly-don-hang/xac-nhan-don-hang.md)
- * [In và đóng gói đơn hàng](don-hang/quy-trinh-xu-ly-don-hang/in-va-dong-goi-don-hang.md)
- * [Biên bản bàn giao đơn hàng](don-hang/quy-trinh-xu-ly-don-hang/bien-ban-ban-giao-don-hang-cho-hang-van-chuyen.md)
- * [Theo dõi đơn hàng và xử lý các vấn đề phát sinh](don-hang/quy-trinh-xu-ly-don-hang/theo-doi-don-hang-va-xu-ly-cac-van-de-phat-sinh.md)
- * [Đối soát thanh toán đơn hàng](don-hang/quy-trinh-xu-ly-don-hang/doi-soat-thanh-toan-don-hang.md)
+  * [Thêm đơn hàng](don-hang/quy-trinh-xu-ly-don-hang/them-don-hang.md)
+  * [Xác nhận đơn hàng](don-hang/quy-trinh-xu-ly-don-hang/xac-nhan-don-hang.md)
+  * [In và đóng gói đơn hàng](don-hang/quy-trinh-xu-ly-don-hang/in-va-dong-goi-don-hang.md)
+  * [Biên bản bàn giao đơn hàng](don-hang/quy-trinh-xu-ly-don-hang/bien-ban-ban-giao-don-hang-cho-hang-van-chuyen.md)
+  * [Theo dõi đơn hàng và xử lý các vấn đề phát sinh](don-hang/quy-trinh-xu-ly-don-hang/theo-doi-don-hang-va-xu-ly-cac-van-de-phat-sinh.md)
+  * [Đối soát thanh toán đơn hàng](don-hang/quy-trinh-xu-ly-don-hang/doi-soat-thanh-toan-don-hang.md)
 * [Danh sách đơn hàng](don-hang/danh-sach-don-hang.md)
 * [Nguồn đơn hàng](don-hang/nguon-don-hang.md)
 
