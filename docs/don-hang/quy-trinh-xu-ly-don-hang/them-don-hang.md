@@ -12,7 +12,7 @@ Giao diện Thêm đơn hàng được chia thành 2 tab, tùy theo mục đích
 
 ## Quy trình thêm đơn hàng như sau:
 ### **A. Đối với doanh nghiệp sử dụng vận chuyển qua Nhanh.vn**
-**Bước 1. Điền đầy đủ thông tin vào các trường, bao gồm:** Thông tin về khách hàng, sản phẩm, vận chuyển, thanh toán và thông tin.
+### **Bước 1. Điền đầy đủ thông tin vào các trường, bao gồm:** Thông tin về khách hàng, sản phẩm, vận chuyển, thanh toán và thông tin.
 ### 1. Thông tin về khách hàng
 Doanh nghiệp click vào biểu tượng ![them-don-hang-1](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/them%20-don-hang-1.png?token=AQA6BMBOMTJXRFXKQKYHVY266GE62) để hiển thị đầy đủ/rút gọn thông tin cho nhóm này, bao gồm:
 - Nguồn đơn hàng: Chọn 1 trong các nguồn đơn hàng đã khai báo lên hệ thống. Để thêm nguồn đơn hàng mới, người dùng click vào biểu tượng ![them-don-hang-2](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/them%20-don-hang-2.png?token=AQA6BMB33STNTN7B6AKUEO266GMNM)
@@ -36,7 +36,7 @@ Nhập thông tin thanh toán (trước/ đặt cọc) của đơn hàng, mức 
 - Thay đổi trạng thái đơn hàng 
 - Tùy chọn sau khi lưu dữ liệu
 
-**Bước 2. Bấm Lưu hoặc Lưu & In phiếu gửi để hoàn tất các thao tác**
+### **Bước 2. Bấm Lưu hoặc Lưu & In phiếu gửi để hoàn tất các thao tác**
 Doanh nghiệp kiểm tra đơn hàng vừa tạo tại [Danh sách đơn hàng](https://nhanh.vn/order/manage/index). Trạng thái đơn hàng vừa tạo thành công sẽ là **Mới**.
 
 Có 3 tùy chọn sau khi lưu dữ liệu: Tiếp tục thêm đơn hàng, Về danh sách đơn hàng, Về trang chi tiết đơn hàng.
@@ -45,10 +45,10 @@ Có 2 tùy chọn lưu dữ liệu: Lưu (ấn F2) hoặc Lưu và in phiếu g�
 
 Giao diện nhập liệu đầy đủ của tab Thêm đơn hàng dùng hãng vận chuyển như sau:
 
-**B. Đối với doanh nghiệp tự vận chuyển**
+### **B. Đối với doanh nghiệp tự vận chuyển**
 
 
-**C. Đối với đơn hàng chưa chốt được sản phẩm: Sử dụng tính năng Đơn hàng nháp**
+### **C. Đối với đơn hàng chưa chốt được sản phẩm: Sử dụng tính năng Đơn hàng nháp**
 - Đơn nháp là đơn chỉ yêu cầu điền **số điện thoại khách hàng**, không yêu cầu điền đầy đủ các thông tin khác.
 
 Tính năng này phù hợp cho bộ phận CSKH đang chat / gọi điện với khách, chưa xin được đầy đủ thông tin, chưa chốt được sản phẩm.
