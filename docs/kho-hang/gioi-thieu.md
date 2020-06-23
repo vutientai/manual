@@ -41,4 +41,4 @@ Kiểu XNK: bao gồm:
 | [#] Kiểu khác | Xuất nhập kho này không ghi nhận vào doanh thu|
 | [BH] Bảo hành, [SC] Sửa chữa | Nhập hàng để bảo hành, sửa chữa, Xuất trả hàng cho khách|
 | [TTBH] Trung tâm bảo hành | Bạn xuất hàng sang Trung tâm bảo hành để bảo hành, sửa chữa máy, và Nhập hàng từ Trung tâm bảo hành về kho của bạn khi quá trình bảo hành sửa chữa hoàn tất|
-| [LKBH] Linh kiện bảo hành | Dùng để Xuất, nhập linh kiện phụ vụ cho việc bảo hành, sửa chữa |
+| [LKBH] Linh kiện bảo hành | Dùng để Xuất, nhập linh kiện phụ vụ cho việc bảo hành, sửa chữa|
