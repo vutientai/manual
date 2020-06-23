@@ -3,10 +3,12 @@ Cài đặt Phân quyền nhân viên cho phép bạn thêm mới, sửa, xóa t
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-1.PNG)
 
----
+Cài đặt phân quyền nhân viên gồm 4 nhóm chức năng chính:
 
-## Thêm mới / sửa / xóa tài khoản nhân viên
-Thêm mới tài khoản nhân viên [tại đây](https://new.nhanh.vn/store/user/index)
+## Nhân viên
+
+* Nhân viên hiện danh sách toàn bộ các tài khoản của nhân viên trong doanh nghiệp của bạn.
+* Thêm mới tài khoản nhân viên [tại đây](https://new.nhanh.vn/store/user/index)
 
 Khi thêm mới tài khoản nhân viên, bạn cần chọn đúng nhóm quyền phù hợp với nhân viên đó. Phần mềm bán hàng Nhanh.vn có các nhóm quyền sau:
 Nhóm quyền |Ý nghĩa
@@ -30,6 +32,7 @@ Nhanh.vn có các nhóm quyền phù hợp với từng bộ phận của doanh 
 Lưu ý, bạn có thể tìm kiếm tính năng thông qua thanh tìm kiếm, click vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-2.PNG) để hiển thị thanh công cụ tìm kiếm và click vào ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-3.PNG) để thu gọn thanh công cụ tìm kiếm 
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-4.PNG)
+
 ## Phân quyền nhân viên
 Dùng trong trường hợp bạn muốn phân quyền riêng cho nhân viên, quy trình thao tác như sau: nhập Tên/user của nhân viên => So sánh với nhóm quyền/nhân viên khác (không bắt buộc) ==> click Lọc ==> Tích chọn các quyền muốn phân cho nhân viên ==> click Lưu.
 
