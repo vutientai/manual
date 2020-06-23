@@ -15,6 +15,7 @@ Giao diện Thêm đơn hàng được chia thành 2 tab, tùy theo mục đích
 **Bước 1. Điền đầy đủ thông tin vào các trường, bao gồm:** Thông tin về khách hàng, sản phẩm, vận chuyển, thanh toán và thông tin.
 ### 1. Thông tin về khách hàng
 Doanh nghiệp click vào biểu tượng ![them-don-hang-1](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/them%20-don-hang-1.png?token=AQA6BMBOMTJXRFXKQKYHVY266GE62) để hiển thị đầy đủ/rút gọn thông tin cho nhóm này, bao gồm:
+- Nguồn đơn hàng: Chọn 1 trong các nguồn đơn hàng đã khai báo lên hệ thống. Để thêm nguồn đơn hàng mới, người dùng click vào biểu tượng ![them-don-hang-2](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/them%20-don-hang-2.png?token=AQA6BMDL44HWJWZD5GI5IPC66GGTE)
 
 **B. Đối với doanh nghiệp sử dụng vận chuyển qua Nhanh.vn**
 **C. Đối với đơn hàng chưa chốt được sản phẩm: Sử dụng tính năng Đơn hàng nháp**
