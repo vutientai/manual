@@ -11,6 +11,8 @@ Nhập hàng về kho ==> Kiểm tra số lượng và chất lượng hàng ==>
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/nhap-hang-nha-cung-cap.png)
 
+
+
 Nhập các thông tin cần thiết như nhà cung cấp, sản phẩm, số lượng sản phẩm nhập, chiết khấu (nếu có), số tiền thanh toán; sau đó click Lưu để hoàn tất thao tác.
 ## 2. In phiếu nhập nhà cung cấp: Giao diện phiếu nhập nhà cung cấp như sau:
 
