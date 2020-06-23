@@ -47,7 +47,7 @@ Có 2 tùy chọn lưu dữ liệu: Lưu (ấn F2) hoặc Lưu và in phiếu g�
 
 Giao diện nhập liệu đầy đủ của tab Thêm đơn hàng dùng hãng vận chuyển như sau:
 
-![them-don-hang-4](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/them-%20don-hang-4.png)
+![Giao diện thêm mới đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/them-%20don-hang-4.png)
 
 ### **B. Đối với doanh nghiệp tự vận chuyển**
 
@@ -60,7 +60,7 @@ Tính năng này phù hợp cho bộ phận CSKH đang chat / gọi điện vớ
 
 - Tại giao diện thêm đơn hàng, bên phải ô nhập Số điện thoại khách hàng, sẽ có thêm 1 icon Lưu đơn nháp, click vào icon này sẽ lưu đơn hàng dưới dạng đơn nháp.
 
-![them-don-hang-5](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/them-don-hang-5.png)
+![Giao diện thêm mới đơn hàng nháp](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/them-don-hang-5.png)
 
 **Chú ý:**
 - Khi lưu đơn nháp, trạng thái mặc định của đơn sẽ là: **Chờ khách xác nhận**.
