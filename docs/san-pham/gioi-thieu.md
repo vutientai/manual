@@ -50,13 +50,13 @@ Bài viết, Mô tả|Các thông tin mô tả ngắn, giới thiệu về sản
 Tên gọi | Mô tả
 ---------|------
 Tồn|Số tồn của sản phẩm trên hệ thống. Khi lọc theo cửa hàng thì sẽ có 2 trường là Tồn: số tồn của sản phẩm tại kho; Tổng tồn: số tồn của cả doanh nghiệp. Khi tồn sản phẩm <= 0 thì sản phẩm có thể hiện thị hoặc đặt hàng được trên website tùy theo người dùng cài đặt và thiết kế website.
-Lỗi:warning:|Trạng thái biểu diễn số sản phẩm đang lỗi khi doanh nghiệp sử dụng tính năng nhập hàng lỗi.
-Sản phẩm thường|
-Sản phẩm thường|
-Sản phẩm thường|
-Sản phẩm thường|
-Sản phẩm thường|
-Sản phẩm thường|
+Lỗi|Trạng thái biểu diễn số sản phẩm đang lỗi khi doanh nghiệp sử dụng tính năng nhập hàng lỗi.
+Đang giao hàng|Hiển thị số lượng của sản phẩm đang có trong các đơn hàng ở trạng thái: chờ thu gom, đang chuyển, thất bại, đang chuyển hoàn.
+Tồn tại cửa hàng|Bằng Tồn - Số lượng sản phẩm đang giao hàng
+Đang chuyển kho|Hiển thị số lượng của sản phẩm đang trong quá trình chuyển kho/cửa hàng, mới chỉ duyệt nhưng chưa được xác nhận.
+Tạm giữ|Hiển thị số các sản phẩm đang có trong các đơn hàng ở trạng thái: mới, đang xác nhận, đã xác nhận, đang đóng gói sản phẩm.
+Có thể bán|Là giá trị doanh nghiệp có thể bán sản phẩm, số Có thể bán = Tồn - Lỗi - đang giao hàng - tạm giữ.
+Chờ nhập hàng|Chỉ có trong tab Tồn kho trang chi tiết sản phẩm, ghi nhận số lượng của sản phẩm trong phiếu yêu cầu XNK nhập Nhà cung cấp.
 
 ----
 Xem thêm video giới thiệu Trạng thái tồn kho của sản phẩm:(Youtube updating)
@@ -64,5 +64,8 @@ Xem thêm video giới thiệu Trạng thái tồn kho của sản phẩm:(Youtu
 ## Các khái niệm về trạng thái bán của sản phẩm
 Tên gọi | Mô tả
 ---------|------
-Sản phẩm thường|
+Mới|Sản phẩm bán được trên các giao diện Bán lẻ, Bán buôn, Đơn hàng, nhưng sẽ không hiện trên website.
+Đang bán|Sản phẩm bán được trên các giao diện Bán lẻ, Bán buôn, Đơn hàng, và có hiển thị trên website.
+Ngừng bán|Sản phẩm không thêm được ở các giao diện Bán lẻ, Bán buôn, Đơn hàng, cũng không hiển thị được sản phẩm trên website.
+Hết hàng|Sản phẩm vẫn có thể hiển thị trên website, nhưng sẽ không cho phép đặt mua nữa mà sẽ hiển thị tiêu đề là Hết hàng hoặc Ngừng kinh doanh.
 
