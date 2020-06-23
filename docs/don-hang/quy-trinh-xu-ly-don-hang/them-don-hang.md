@@ -68,7 +68,7 @@ Tính năng này phù hợp cho bộ phận CSKH đang chat / gọi điện vớ
 - Đơn nháp vẫn có thể sửa / xác nhận lại thông tin như 1 đơn hàng bình thường.
 - Tính năng này không mở mặc định cho doanh nghiệp, xin quý khách vui lòng liên hệ nhân viên CSKH của Nhanh.vn để được tư vấn và hỗ trợ bật tính năng này.
 
-Sau khi thêm đơn hàng thành công, doanh nghiệp chuyển sang bước [Xác nhận đơn hàng](https://nhanh.vn/manual/item/view?id=9).
+Sau khi thêm đơn hàng thành công, doanh nghiệp chuyển sang bước [Xác nhận đơn hàng](link).
 
 **Bạn có thể tham khảo video hướng dẫn thêm mới đơn hàng online trực tiếp trên phần mềm tại đây:**
 
