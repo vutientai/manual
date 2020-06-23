@@ -30,4 +30,4 @@ Vào Danh sách phiếu XNK / tìm đến phiếu Nhập nhà cung cấp vừa t
 ## Một số lưu ý:
 - Khi bạn thêm mới sản phẩm và có điền số lượng, hệ thống sẽ tự tạo một phiếu nhập nhà cung cấp với số lượng tương ứng.
 
-Trong trường hợp  muốn trả hàng cho nhà cung cấp, bạn xem hướng dẫn tại đây. 
+Trong trường hợp  muốn trả hàng cho nhà cung cấp, bạn xem hướng dẫn [tại đây](https://github.com/nhanhapi/manual/blob/master/docs/kho-hang/tra-hang-cho-nha-cung-cap.md). 
