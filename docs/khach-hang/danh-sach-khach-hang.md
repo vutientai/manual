@@ -5,7 +5,7 @@ Thông tin tất cả các khách hàng của doanh nghiệp được tập hợ
 
 Giao diện Danh sách khách hàng như sau:
 
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/danh-sach-khach-hang.jpg?token=AQAV53RRT3FUZROMD5YSI7266GKCA)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/danh-sach-khach-hang.jpg)
 Một số khái niệm cần lưu ý:
 
   - **Loại khách**: Lọc theo loại khách Lẻ/ Buôn.
