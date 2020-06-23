@@ -30,17 +30,34 @@ Nhân viên, Người tạo|Người tạo sản phẩm này trên hệ thống.
 ## Các khái niệm về giá sản phẩm
 Tên gọi | Mô tả
 ---------|------
-Sản phẩm thường|
+Giá nhập, giá bán, giá bán buôn|Các loại giá của sản phẩm, khi nhập NCC hệ thống sẽ chủ động lấy theo giá nhập, bán lẻ sẽ lấy giá bán, bán buôn sẽ lấy giá buôn, không có giá bán buôn thì sẽ lấy theo giá bán lẻ.
+Giá vốn|Hệ thống hỗ trợ 2 kiểu tính giá vốn: Giá vốn trung bình: Tính theo công thức ((tồn hiện tại * giá vốn hiện tại) + (số lượng nhập * giá nhập)) / (tồn hiện tại + số lượng nhập); / Giá vốn đích danh: Trường hợp sản phẩm IMEI đích danh thì sẽ lấy theo giá vốn bằng giá nhập nhà cung cấp của IMEI đó. 
+Xem thêm cách tính giá vốn trên Nhanh.vn tại đây.
+Giá chi nhánh|Giá sản phẩm nhảy theo chi nhánh, doanh nghiệp nếu như quản lý theo các chi nhánh và mỗi chi nhánh có 1 giá khác nhau sẽ dùng tính năng này.
+VAT|VAT theo từng sản phẩm, khi điền giá bán của sản phẩm sẽ cộng thêm giá trị VAT này.
 
 ## Các khái niệm liên quan đến sản phẩm khi hiển thị trên website
 Tên gọi | Mô tả
 ---------|------
-Sản phẩm thường|
+MetaKeywords, MetaDescription, MetaTitle, Tag|Các thông tin SEO của sản phẩm trên website.
+Trang chủ, Sản phẩm mới, Sản phẩm hot|Trang ưu tiên sẽ hiển thị sản phẩm trên website (tùy vào từng template).
+Thứ tự trên site|Thứ tự hiển thị sản phẩm trên các trang trong website - tùy theo yêu cầu làm của từng doanh nghiệp thì mới chạy được.
+Giá trị khuyến mãi, Mô tả khuyến mãi|Hiển thị thông tin khuyến mãi của sản phẩm, cái này chỉ hiển thị trên website và tùy vào từng template.
+Thông tin bảo hành|Hiển thị thông tin bảo hành của sản phẩm, cái này chỉ hiển thị trên website và tùy vào từng template.
+Bài viết, Mô tả|Các thông tin mô tả ngắn, giới thiệu về sản phẩm.
 
 ## Các khái niệm về tồn kho của sản phẩm
 Tên gọi | Mô tả
 ---------|------
+Tồn|Số tồn của sản phẩm trên hệ thống. Khi lọc theo cửa hàng thì sẽ có 2 trường là Tồn: số tồn của sản phẩm tại kho; Tổng tồn: số tồn của cả doanh nghiệp. Khi tồn sản phẩm <= 0 thì sản phẩm có thể hiện thị hoặc đặt hàng được trên website tùy theo người dùng cài đặt và thiết kế website.
+Lỗi:warning:|Trạng thái biểu diễn số sản phẩm đang lỗi khi doanh nghiệp sử dụng tính năng nhập hàng lỗi.
 Sản phẩm thường|
+Sản phẩm thường|
+Sản phẩm thường|
+Sản phẩm thường|
+Sản phẩm thường|
+Sản phẩm thường|
+
 ----
 Xem thêm video giới thiệu Trạng thái tồn kho của sản phẩm:(Youtube updating)
 ----
