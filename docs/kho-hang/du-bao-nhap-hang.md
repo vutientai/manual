@@ -19,7 +19,7 @@ Quy trình tính toán số lượng sản phẩm cần nhập thêm:
 - Tên sản phẩm: nếu không muốn dự báo theo danh mục sản phẩm, bạn có thể nhập tên chính xác của 1 sản phẩm cụ thể hoặc một vài chữ cái trong tên sản phẩm.
 ## Bước 2: Click vào Tính số lượng cần nhập. Công thức tính như sau
 
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/du%20bao%20nhap%20hang%20form%201.png)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/du-bao-nhap-hang%201.png)
 
 Số lượng bán trung bình ngày = Tổng bán trong khoảng ngày / Số ngày trong khoảng
 Số lượng bán dự tính sắp tới = Số lượng bán trung bình ngày * Số ngày sắp tới
