@@ -35,8 +35,15 @@ Khi có nhiều đơn hàng cần gửi cho hãng vận chuyển trong ngày, b�
 - In bảng tổng hợp số lượng sản phẩm để nhặt hàng và đóng gói nhanh hơn.
 - In biên bản cho bưu tá kí xác nhận đã nhận tổng số đơn và bảng kê chi tiết, mà không cần kí nhận từng phiếu gửi giúp tiết kiệm giấy in, hạn chế thất thoát.
 
-### **3.Tour chuyển hàng**
+### **3. Tour chuyển hàng**
 Dùng cho doanh nghiệp nào tự có đội ngũ vận chuyển riêng, tự quản lý các đơn hàng gửi cho khách.
 
-### **4.Đối soát**
+### **4. Đối soát**
 Nhanh.vn sẽ đối soát các đơn hàng gửi qua hãng vận chuyển để gửi tiền cho doanh nghiệp.
+
+## **II. Nghiệp vụ tạo, xử lý đơn hàng**
+### **1. Khách hàng đặt đơn hàng**
+- Đặt hàng trên website: khách đặt hàng và điền thông tin ở trang thanh toán trên các website mà Nhanh.vn cung cấp, các trang kết nối api với Nhanh.vn, các đơn đặt trên Vật giá/Lazada -> đơn hàng sẽ chuyển về Danh sách đơn hàng.
+- Khách gọi điện thoại đến doanh nghiệp, đặt hàng trên trang fanpage Facebook của doanh nghiệp...
+  - Doanh nghiệp vào tạo đơn hàng trong hệ thống, điền đấy đủ các thông tin khách hàng, báo cho khách về phí vận chuyển (nếu có)
+  - Doanh nghiệp import đơn hàng để tạo nhiều đơn hàng cùng lúc lên hệ thống.
