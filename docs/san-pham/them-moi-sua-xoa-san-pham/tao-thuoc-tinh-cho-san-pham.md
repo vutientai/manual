@@ -4,16 +4,9 @@ Thuộc tính là những thông tin mô tả rõ hơn các đặc điểm của
 Doanh nghiệp bán cả quần áo và điện thoại, cần có các thuộc tính như sau:
 Nhóm thuộc tính|Tên thuộc tính|Giá trị
 --------|------
-Điện thoại|
+Điện thoại||Dung lượng
+          ||Tình trạng
 ## 2. Cách tạo thuộc tính.
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
 
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-[Prototype table]
 ## 3. Tạo sản phẩm có thuộc tính.
 ## 4. Hiển thị thuộc tính sản phẩm trên Website.
