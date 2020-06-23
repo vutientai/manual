@@ -28,5 +28,15 @@ Thất bại | Nếu hãng vận chuyển gửi hàng đến khách hàng nhưng
 Đã chuyển hoàn | Doanh nghiệp nhận lại hàng Đang chuyển hoàn và tự đổi sang trạng thái Đã chuyển hoàn
 Thành công | Khi đơn hàng đã gửi cho khách thì hãng/doanh nghiệp cần đổi sang trạng thái thành công.
 
-**Bạn có thể tham khảo video hướng dẫn trạng thái sản phẩm và đơn hàng [Tại đây](http://github.com)**
+**Bạn có thể tham khảo video hướng dẫn trạng thái sản phẩm và đơn hàng [Tại đây](https://www.youtube.com/watch?v=-CJPWYW2Az0)**
 ### **2. Biên bản bàn giao**
+Khi có nhiều đơn hàng cần gửi cho hãng vận chuyển trong ngày, bạn nên dùng biên bản bàn giao để:
+- Cho nhiều đơn hàng vào biên bản và bắn biên bản sang hãng vận chuyển cùng 1 thời điểm, giúp cho việc điều tin nhanh và tập trung hơn.
+- In bảng tổng hợp số lượng sản phẩm để nhặt hàng và đóng gói nhanh hơn.
+- In biên bản cho bưu tá kí xác nhận đã nhận tổng số đơn và bảng kê chi tiết, mà không cần kí nhận từng phiếu gửi giúp tiết kiệm giấy in, hạn chế thất thoát.
+
+### **3.Tour chuyển hàng**
+Dùng cho doanh nghiệp nào tự có đội ngũ vận chuyển riêng, tự quản lý các đơn hàng gửi cho khách.
+
+### **4.Đối soát**
+Nhanh.vn sẽ đối soát các đơn hàng gửi qua hãng vận chuyển để gửi tiền cho doanh nghiệp.
