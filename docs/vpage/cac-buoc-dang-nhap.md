@@ -9,6 +9,5 @@
 
 Truy cập vào link sau: https://vpage.nhanh.vn/, click ![Đăng nhập](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/%C4%90%C4%83ng%20nh%E1%BA%ADp.png)
 * Click đồng ý các quyền cần thiết để có thể sử dụng được Vpage
-* Đối với fanpage chưa sử dụng Vpage: nhấn  ==> 
-* Đối với fanpage đã từng sử dụng Vpage: Tích chọn  ==> 
+* Thao tác tích chọn ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/vpage/img/T%C3%ADch%20ch%E1%BB%8Dn%20page.png)
 
