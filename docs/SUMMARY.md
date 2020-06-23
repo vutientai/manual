@@ -50,6 +50,16 @@
 ## Bán hàng
 
 * [Giới thiệu về Bán hàng](ban-hang/gioi-thieu.md)
+* Bán lẻ
+  * [Thêm hóa đơn bán lẻ](ban-hang/them-hoa-don-ban-le.md)
+  * [Danh sách hóa đơn bán lẻ](ban-hang/danh-sach-hoa-don-ban-le.md)
+* Bán buôn
+  * [Thêm hóa đơn bán buôn](ban-hang/them-hoa-don-ban-buon.md)
+  * [Danh sách hóa đơn bán buôn](ban-hang/danh-sach-hoa-don-ban-buon.md)
+* [Hóa đơn nháp](ban-hang/hoa-don-nhap.md)
+* [Nợ quà tặng](ban-hang/no-qua-tang.md)
+* [Tìm hóa đơn](ban-hang/tim-hoa-don.md)
+* [Trả hàng](ban-hang/tra-hang.md)
 
 ## Đơn hàng
 
