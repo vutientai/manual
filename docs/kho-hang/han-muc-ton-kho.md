@@ -10,10 +10,14 @@ Với mỗi sản phẩm, bạn có thể nhập cả hạn mức tồn tối đ
 - Tồn hiện tại < Tồn tối đa
 
 từ đó giúp bạn tìm ra các sản phẩm cần nhập thêm, chuyển từ kho tổng về để để đủ tồn tối thiểu, hoặc lọc ra các sản phẩm đang tồn nhiều hơn so với hạn mức (cần thanh lý bớt)..
+
 ## Quy trình thao tác trên module Hạn mức tồn kho:
+
 1. Nhập hạn mức tồn kho của sản phẩm (thêm tay hoặc import file Excel)
 2. Lọc tìm sản phẩm theo các tiêu chí
+
 ## 1. Nhập hạn mức tồn kho của sản phẩm
+
 Có 2 cách để nhập hạn mức tồn kho của sản phẩm, là thêm tay từng sản phẩm và import file Excel
 
 1.1. Thêm hạn mức cho từng sản phẩm: Bạn truy cập lần lượt vào Kho hàng / Hạn mức tồn kho / click Thêm mới, chọn Thêm mới, hoặc truy cập tại đây.
@@ -32,4 +36,5 @@ Sau khi nhập hạn mức tồn kho cho sản phẩm, danh sách hạn mức t�
 Lưu ý: Số tồn tối thiểu và tối đa sẽ có màu xanh nếu tồn hiện tại nằm trong hạn mức, có màu đỏ nếu tồn hiện tại nằm ngoài hạn mức.
 
 ## 2. Tra cứu hạn mức tồn kho
+
 Tại Danh sách hạn mức tồn kho có bộ lọc giúp doanh nghiệp có thể lọc ra các sản phẩm đang tồn dưới hạn mức tối thiểu hoặc trên hạn mức tối đa, từ đó đưa ra kế hoạch nhập hàng hoặc xả hàng cho phù hợp.
