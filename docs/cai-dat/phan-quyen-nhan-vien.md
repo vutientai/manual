@@ -25,7 +25,7 @@ Nhân viên kiểm soát viên/nhân viên đối soát viên | Quyền dùng đ
 ## Phân quyền nhóm nhân viên
 Nhanh.vn có các nhóm quyền phù hợp với từng bộ phận của doanh nghiệp. Tuy nhiên doanh nghiệp cũng có thể thêm/bớt các quyền trong nhóm quyền đó, bằng cách tích vào các quyền trong tab Phân quyền nhóm nhân viên.
 
-Lưu ý, bạn có thể tìm kiếm tính năng thông qua thanh tìm kiếm, click vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-2.PNG?token=AQA4NCWPVXZI5QREG2JWK7S66GDCA) để hiển thị thanh công cụ tìm kiếm và click vào ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-3.PNG?token=AQA4NCUX7FPUWD5GAW4ANEK66GC6M) để thu gọn thanh công cụ tìm kiếm 
+Lưu ý, bạn có thể tìm kiếm tính năng thông qua thanh tìm kiếm, click vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-2.PNG?token=AQA4NCRA2XPDE272AW5E4S266GEW6) để hiển thị thanh công cụ tìm kiếm và click vào ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-3.PNG?token=AQA4NCUX7FPUWD5GAW4ANEK66GC6M) để thu gọn thanh công cụ tìm kiếm 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-4.PNG?token=AQA4NCR45LFKJV32LW75NUK66GD4A)
 ## Phân quyền nhân viên
 Dùng trong trường hợp bạn muốn phân quyền riêng cho nhân viên, quy trình thao tác như sau: nhập Tên/user của nhân viên => So sánh với nhóm quyền/nhân viên khác (không bắt buộc) ==> click Lọc ==> Tích chọn các quyền muốn phân cho nhân viên ==> click Lưu.
