@@ -17,11 +17,14 @@ Quy trình tính toán số lượng sản phẩm cần nhập thêm:
 - Nhập hàng bán trong mấy ngày: bạn nhập số ngày bán hàng dự tính sắp tới (thường là khoảng cách số ngày giữa 2 lần nhập hàng)
 - Tồn tối thiểu của mỗi sản phẩm: nhập số tồn tối thiểu của sản phẩm mà bạn mong muốn.
 - Tên sản phẩm: nếu không muốn dự báo theo danh mục sản phẩm, bạn có thể nhập tên chính xác của 1 sản phẩm cụ thể hoặc một vài chữ cái trong tên sản phẩm.
-
 ## Bước 2: Click vào Tính số lượng cần nhập. Công thức tính như sau
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/du%20bao%20nhap%20hang%20form%201.png)
+
 Số lượng bán trung bình ngày = Tổng bán trong khoảng ngày / Số ngày trong khoảng
 Số lượng bán dự tính sắp tới = Số lượng bán trung bình ngày * Số ngày sắp tới
 Số lượng hàng cần nhập = Số lượng bán dự tính sắp tới - Số tồn có thể bán hiện tại + Số tồn tối thiểu.
+
 
 Sau khi hệ thống tính được số lượng sản phẩm doanh nghiệp cần nhập thêm, bạn có thể click nút Hành động để xuất Excel danh sách này để đề xuất nhập bổ sung, tránh tình trạng hết hàng.
 
