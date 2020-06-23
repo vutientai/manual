@@ -9,7 +9,7 @@ Nhập hàng về kho ==> Kiểm tra số lượng và chất lượng hàng ==>
 ## 1. Thêm phiếu nhập nhà cung cấp
 Để thêm phiếu nhập kho nhà cung cấp, bạn truy cập lần lượt vào Kho hàng / click Thêm mới, chọn Nhập kho hoặc truy cập [tại đây](https://new.nhanh.vn/inventory/bill/import). Giao diện thêm phiếu nhập kho nhà cung cấp như sau:
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/nhap-hang-nha-cung-cap.png)
-Nhập các thông tin cần thiết như nhà cung cấp, sản phẩm, số lượng sản phẩm nhập, chiết khấu (nếu có), số tiền thanh toán; sau đó click Lưu hoặc Lưu và in để hoàn tất thao tác.
+Nhập các thông tin cần thiết như nhà cung cấp, sản phẩm, số lượng sản phẩm nhập, chiết khấu (nếu có), số tiền thanh toán; sau đó click Lưu để hoàn tất thao tác.
 ## 2. In phiếu nhập nhà cung cấp: Giao diện phiếu nhập nhà cung cấp như sau:
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/phieu-nhap-nha-cung-cap1.png)
 
