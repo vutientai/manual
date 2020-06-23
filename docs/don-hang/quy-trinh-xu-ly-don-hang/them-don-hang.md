@@ -12,9 +12,9 @@ Giao diện Thêm đơn hàng được chia thành 2 tab, tùy theo mục đích
 
 ## Quy trình thêm đơn hàng như sau:
 ### **A. Đối với doanh nghiệp sử dụng vận chuyển qua Nhanh.vn**
-**Bước 1. Điền đầy đủ thông tin vào các trường, bao gồm:** Thông tin về đơn hàng, khách hàng, sản phẩm, bảng giá hãng vận chuyển và thanh toán.
-### 1. Thông tin về đơn hàng
-Doanh nghiệp click vào biểu tượng  để hiển thị đầy đủ/rút gọn thông tin cho nhóm này, bao gồm:
+**Bước 1. Điền đầy đủ thông tin vào các trường, bao gồm:** Thông tin về khách hàng, sản phẩm, vận chuyển, thanh toán và thông tin.
+### 1. Thông tin về khách hàng
+Doanh nghiệp click vào biểu tượng ![them-don-hang-1](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/Them-don-hang-1.png?token=AQA6BMHOPFHHKA3P7OCJ3PS66GECA) để hiển thị đầy đủ/rút gọn thông tin cho nhóm này, bao gồm:
 
 **B. Đối với doanh nghiệp sử dụng vận chuyển qua Nhanh.vn**
 **C. Đối với đơn hàng chưa chốt được sản phẩm: Sử dụng tính năng Đơn hàng nháp**
