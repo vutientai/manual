@@ -2,3 +2,5 @@
 
 Test video 
 https://www.youtube.com/watch?v=dob0P7opv0I
+
+[[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
