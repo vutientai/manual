@@ -33,5 +33,5 @@ Dùng trong trường hợp bạn muốn phân quyền riêng cho nhân viên, q
 
 Lưu ý:
 
-- Bạn click vào nút mui_ten để hệ thống load lại các quyền mặc định của nhân viên trước khi tích thêm/bớt quyền cho nhân viên đó
+- Bạn click vào nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-5.PNG?token=AQA4NCTYNL5X5KCFI2UVFXS66GGJC) để hệ thống load lại các quyền mặc định của nhân viên trước khi tích thêm/bớt quyền cho nhân viên đó
 - Để chuyển về phân quyền mặc định, doanh nghiệp click vào nút Chuyển về phân quyền mặc định.
