@@ -27,6 +27,7 @@ Trong trường hợp muốn chuyển đơn hàng sang kho khác (khi kho mặc 
 Xem thêm:
 
 [- Hướng dẫn chia sẻ máy in qua mạng LAN để sử dụng cho nhiều máy tính](https://nhanh.vn/manual/item/view?id=441)
+
 [- Cách khắc phục lỗi in thiếu trong quá trình in hóa đơn, phiếu gửi](https://nhanh.vn/manual/item/view?id=414)
 
 **Bước 3: Nhặt hàng**
@@ -39,3 +40,10 @@ Xem thêm:
 Thao tác cụ thể như sau:
 
 - Ở tab In và đóng gói, sau khi in phiếu gửi, doanh nghiệp tick chọn các đơn cùng hãng vận chuyển / click Hành động / chọn Thêm đơn hàng vào biên bản bàn giao / click Lưu đễ hoàn tất thao tác thêm biên bản.
+- Vào Danh sách biển bản bàn giao, tìm đến biên bản cần nhặt hàng, click nút ![chú thích ảnh ví du them-don-hang](link ảnh) , chọn In bảng tổng hợp sản phẩm, rồi cầm bảng đó đi nhặt hàng (loại bỏ tình trạng nhặt thiếu sản phẩm, phải nhặt lại nhiều lần).
+
+Xem thêm hướng dẫn sử dụng Biên bản bàn giao vận đơn [tại đây.](https://nhanh.vn/manual/item/view?id=414)
+
+**Bước 4 : Đóng gói và dán phiếu gửi lên gói hàng**
+
+Sau khi đơn hàng đã được đóng gói, doanh nghiệp tiến hàng  [Gửi đơn hàng sang hãng vận chuyển](https://nhanh.vn/manual/item/view?id=414)
