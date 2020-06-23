@@ -2,7 +2,7 @@
   "gitbook": "3.2.2",
   "root": "./docs",
   "title": "Hướng dẫn sử dụng Nhanh.vn",
-  "plugins": ["prism", "-highlight", "github", "anchorjs"],
+  "plugins": ["prism", "-highlight", "github", "anchorjs", "youtube"],
   "pluginsConfig": {
     "github": {
       "url": "https://github.com/nhanhapi/manual"
