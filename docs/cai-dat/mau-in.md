@@ -11,7 +11,6 @@ Bạn muốn chèn thêm thông tin vào hóa đơn, chèn thêm logo, địa ch
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/cai-dat-mau-in-3.PNG)
 
-
 Sản phẩm: In thông tin sản phẩm
 Xuất nhập kho: Phiếu xuất kho nhà cung cấp / Phiếu nhập kho nhà cung cấp / Phiếu chuyển kho / Phiếu yêu cầu XNK chuyển kho / Phiếu yêu cầu XNK bán buôn / Phiếu yêu cầu XNK nhà cung cấp
 Bán hàng: Hóa đơn bán lẻ / Hóa đơn trả hàng bán lẻ / Hóa đơn bán buôn / Hóa đơn trả hàng bán buôn / Phiếu bảo hành mở rộng / Phiếu bảo hành
@@ -23,5 +22,4 @@ Khi thiết kế mẫu in, bạn click vào ![](https://raw.githubusercontent.co
 
 ### Bước 3. Sau khi thiết kế mẫu in xong, bạn click Lưu để hoàn tất
 Các mẫu in do bạn thiết kế sẽ xuất hiện tại Danh sách mẫu in.
-
 Video hướng dẫn chi tiết:
