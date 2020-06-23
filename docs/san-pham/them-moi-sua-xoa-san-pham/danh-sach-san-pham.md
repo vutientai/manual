@@ -3,7 +3,9 @@
 ## I. Danh sách sản phẩm
 https://nhanh.vn/product/item/index
 Giúp bạn xem, lọc tìm, sửa, xóa, cập nhật trạng thái, in mã vạch, xuất Excel danh sách sản phẩm
+
 ![Danh sách sản phẩm](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp_dssp.png)
+
 ## II. Chi tiết sản phẩm
 Bạn click vào ID / mã / tên sản phẩm để vào trang chi tiết sản phẩm.
 
