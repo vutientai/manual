@@ -13,8 +13,8 @@ Dưới đây là các khái niệm cơ bản về sản phẩm:
 
 * sản phẩm được chia thành nhiều loại, phục vụ các mục đích quản lý khác nhau
 
-Tên loại | Mô tả
----------|------
+Tên loại    | Mô tả
+------------|------
 Sản phẩm thường|Nhanh.vn quản lý sản phẩm theo ID (do hệ thống tự sinh), tên, mã sản phẩm, mã vạch sản phẩm. Các bộ lọc sẽ dựa theo một trong các thông tin này, hệ thống cũng hỗ trợ đọc mã vạch bằng máy tít. Trong đó mã vạch sản phẩm do hệ thống tự động sinh hoặc tự doanh nghiệp điền.
 Sản phẩm IMEI|Loại sản phẩm có mã IMEI, chủ yếu là các sản phẩm công nghệ: điện thoại, máy tính bảng ...
 Sản phẩm dịch vụ|Loại sản phẩm này dùng để ghi nhận một dịch vụ mà doanh nghiệp cung cấp, sản phẩm này sẽ không hiện số tồn ở danh sách sản phẩm, được phép xuất âm; sản phẩm dịch vụ sẽ không kiểm kho được.
