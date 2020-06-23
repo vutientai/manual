@@ -7,7 +7,8 @@ Thao tác này thường được dùng khi bạn muốn trả lại nhà cung c
 Để thêm phiếu trả nhà cung cấp, bạn truy cập lần lượt vào Kho hàng / click Thêm mới, chọn Trả Xuất kho, hoặc truy cập [tại đây](https://new.nhanh.vn/inventory/bill/export)
 
 ## Giao diện làm việc hiển thị như sau:
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/tra-hang.png)
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/tra-hang.png?token=AQA6TRCOIYKLKBJ22LBRYJS66GEAE)
 
 # QUY TRÌNH XUẤT TRẢ SẢN PHẨM CHO NHÀ CUNG CẤP
 ## Bước 1: Nhập thông tin liên quan đến sản phẩm xuất trả NCC
@@ -20,6 +21,8 @@ Bạn nhập thông tin vào các trường cần thiết, như tên nhà cung c
 ## Bước 2: Lưu phiêu trả nhà cung cấp
 Bạn click vào Lưu để lưu hóa đơn xuất trả.
 Phiếu xuất trả NCC sau khi lưu, được chuyển về [Danh sách phiếu XNK](https://new.nhanh.vn/inventory/bill/index)
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/danh-sach-phieu-tra.png?token=AQA6TRCD7M56LQY2IBKLCMC66GCEA)
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/danh-sach-phieu-tra.png?token=AQA6TRA4WNBUQQO7AOQKERC66GESM)
+
 ## Bước 3: In phiếu trả nhà cung cấp
 ![](https://github.com/nhanhapi/manual/blob/master/docs/kho-hang/img/phieu-tra-hang.png) 
