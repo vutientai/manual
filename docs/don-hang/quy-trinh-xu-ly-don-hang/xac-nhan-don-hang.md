@@ -35,7 +35,7 @@ Tình trạng:
 
 Trong khi xác nhận đơn hàng, nhân viên CSKH cần kiểm tra về số lượng sản phẩm tồn trong kho của mỗi đơn hàng. 
 
-![Giao diện module Xác nhận đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/xac-nhan-don-hang-3.png)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/xac-nhan-don-hang-3.png)
 - Nếu sản phẩm tại kho đặt hàng đang tạm hết hàng, các kho khác vẫn còn hàng, cần chuyển kho đặt hàng hoặc điều chuyển sản phẩm từ kho đó về kho đăng ký đặt hàng.
 - Nếu sản phẩm hết hàng toàn bộ, nhân viên CSKH cần xác nhận với khách hàng hoặc gửi SMS thông báo cho khách hàng biết để khách chuyển sang sản phẩm khác.
 
@@ -43,7 +43,7 @@ Trong khi xác nhận đơn hàng, nhân viên CSKH cần kiểm tra về số l
 - Lưu: Đơn hàng sẽ chuyển sang trạng thái Đã xác nhận
 - Lưu và in: Phiếu gửi hàng sẽ được in ra, đồng thời đơn hàng chuyển sang trạng thái Đang đóng gói sản phẩm.
 
-Sau khi xác nhận đơn hàng, doanh nghiệp chuyển sang bước [In và đóng gói đơn hàng](https://nhanh.vn/order/manage/index)
+Sau khi xác nhận đơn hàng, doanh nghiệp chuyển sang bước [In và đóng gói đơn hàng](https://manual.nhanh.vn/don-hang/quy-trinh-xu-ly-don-hang/in-va-dong-goi-don-hang)
 
 **LƯU Ý:**
 - Khi tài khoản có quyền xác nhận đơn hàng thì khi kích vào trạng thái **Mới** ngoài danh sách đơn hàng hoặc kích Tab Xác nhận ở trong chi tiết đơn hàng thì trạng thái đơn sẽ chuyển thành trạng thái **"Đang xác nhận"** và lưu người chăm sóc là tài khoản đã tích xác nhận này
