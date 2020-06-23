@@ -37,7 +37,7 @@ Nhập thông tin thanh toán (trước/ đặt cọc) của đơn hàng, mức 
 - Tùy chọn sau khi lưu dữ liệu
 
 **Bước 2. Bấm Lưu hoặc Lưu & In phiếu gửi để hoàn tất các thao tác**
-Doanh nghiệp kiểm tra đơn hàng vừa tạo tại [Danh sách đơn hàng](https://nhanh.vn/order/manage/index)Danh sách đơn hàng. Trạng thái đơn hàng vừa tạo thành công sẽ là **Mới**.
+Doanh nghiệp kiểm tra đơn hàng vừa tạo tại [Danh sách đơn hàng](https://nhanh.vn/order/manage/index). Trạng thái đơn hàng vừa tạo thành công sẽ là **Mới**.
 
 Có 3 tùy chọn sau khi lưu dữ liệu: Tiếp tục thêm đơn hàng, Về danh sách đơn hàng, Về trang chi tiết đơn hàng.
 
@@ -61,7 +61,7 @@ Tính năng này phù hợp cho bộ phận CSKH đang chat / gọi điện vớ
 - Đơn nháp vẫn có thể sửa / xác nhận lại thông tin như 1 đơn hàng bình thường.
 - Tính năng này không mở mặc định cho doanh nghiệp, xin quý khách vui lòng liên hệ nhân viên CSKH của Nhanh.vn để được tư vấn và hỗ trợ bật tính năng này.
 
-Sau khi thêm đơn hàng thành công, doanh nghiệp chuyển sang bước Xác nhận đơn hàng.
+Sau khi thêm đơn hàng thành công, doanh nghiệp chuyển sang bước [Xác nhận đơn hàng](https://nhanh.vn/manual/item/view?id=9).
 
 **Bạn có thể tham khảo video hướng dẫn thêm mới đơn hàng online trực tiếp trên phần mềm tại đây:**
 
