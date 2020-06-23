@@ -82,4 +82,5 @@ Với doanh nghiệp dùng kế toán thì sẽ tự tạo phiếu thu bằng ta
 3. Khi hãng vận chuyển thay đổi trạng thái -> Cập nhật lịch trình về Nhanh.
 4. Khi đơn hàng giao Thành công hoặc Chuyển hoàn về, hãng vận chuyển đối soát với Nhanh.
 Nhanh sẽ check các thông tin về khối lượng | tiền cần thu | giá cước (xem có phí vượt cân, có đúng với giá cước theo hợp đồng không) => Khớp các giá trị trên sẽ chốt đối soát với hãng vận chuyển, sau đó Nhanh sẽ chuyển lại tiền này cho doanh nghiệp.
+---
 Khi sử dụng vận chuyển trên Nhanh thì các bước 2,3,4 trên là do Nhanh làm, còn với doanh nghiệp Tự vận chuyển thì sẽ tự làm các bước đổi trạng thái, đối soát, chốt tiền.
