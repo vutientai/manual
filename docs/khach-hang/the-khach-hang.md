@@ -41,4 +41,6 @@ Tình huống sử dụng thực tế:
 - Nhập thông tin khách hàng, click Lưu để hoàn tất.
 
 Sau khi gắn khách hàng vào thẻ, danh sách thẻ sẽ hiển thị đầy đủ thông tin khách hàng như sau:
+
+
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/thong-tin-the-khach-hang.jpg?token=AQAV53SJX5PZPA2TY7AHIXS66GJ6W)
