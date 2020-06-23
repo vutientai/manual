@@ -30,7 +30,9 @@ Tình huống sử dụng thực tế:
        
  - Tại Danh sách đợt phát hành thẻ, click vào số lượng mã thẻ
  
+ 
  ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/danh-sach-dot-phat-hanh-the-2.jpg)
+
 
 - Click nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/nut1.jpg) tại từng mã thẻ, chọn Thêm khách hàng. Sau đó nhập các thông tin cần thiết của khách hàng, click Lưu để hoàn tất thao tác.
 
