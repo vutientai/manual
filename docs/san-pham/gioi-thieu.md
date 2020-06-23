@@ -51,12 +51,12 @@ Tên gọi | Mô tả
 ---------|------
 Tồn|Số tồn của sản phẩm trên hệ thống. Khi lọc theo cửa hàng thì sẽ có 2 trường là Tồn: số tồn của sản phẩm tại kho; Tổng tồn: số tồn của cả doanh nghiệp. Khi tồn sản phẩm <= 0 thì sản phẩm có thể hiện thị hoặc đặt hàng được trên website tùy theo người dùng cài đặt và thiết kế website.
 Lỗi![](https://github.com/nhanhapi/manual/blob/master/docs/san-pham/img/sp_icon_loi.png)|Trạng thái biểu diễn số sản phẩm đang lỗi khi doanh nghiệp sử dụng tính năng nhập hàng lỗi.
-Đang giao hàng|Hiển thị số lượng của sản phẩm đang có trong các đơn hàng ở trạng thái: chờ thu gom, đang chuyển, thất bại, đang chuyển hoàn.
-Tồn tại cửa hàng![]()|Bằng Tồn - Số lượng sản phẩm đang giao hàng
-Đang chuyển kho![]()|Hiển thị số lượng của sản phẩm đang trong quá trình chuyển kho/cửa hàng, mới chỉ duyệt nhưng chưa được xác nhận.
-Tạm giữ![]()|Hiển thị số các sản phẩm đang có trong các đơn hàng ở trạng thái: mới, đang xác nhận, đã xác nhận, đang đóng gói sản phẩm.
-Có thể bán![]()|Là giá trị doanh nghiệp có thể bán sản phẩm, số Có thể bán = Tồn - Lỗi - đang giao hàng - tạm giữ.
-Chờ nhập hàng![]()|Chỉ có trong tab Tồn kho trang chi tiết sản phẩm, ghi nhận số lượng của sản phẩm trong phiếu yêu cầu XNK nhập Nhà cung cấp.
+Đang giao hàng![](https://github.com/nhanhapi/manual/blob/master/docs/san-pham/img/sp_icon_danggiaohang.png)|Hiển thị số lượng của sản phẩm đang có trong các đơn hàng ở trạng thái: chờ thu gom, đang chuyển, thất bại, đang chuyển hoàn.
+Tồn tại cửa hàng![](https://github.com/nhanhapi/manual/blob/master/docs/san-pham/img/sp_icon_tontrongkho.png)|Bằng Tồn - Số lượng sản phẩm đang giao hàng
+Đang chuyển kho![](https://github.com/nhanhapi/manual/blob/master/docs/san-pham/img/sp_icon_dangchuyenkho.png)|Hiển thị số lượng của sản phẩm đang trong quá trình chuyển kho/cửa hàng, mới chỉ duyệt nhưng chưa được xác nhận.
+Tạm giữ![](https://github.com/nhanhapi/manual/blob/master/docs/san-pham/img/sp_icon_tamgiu.png)|Hiển thị số các sản phẩm đang có trong các đơn hàng ở trạng thái: mới, đang xác nhận, đã xác nhận, đang đóng gói sản phẩm.
+Có thể bán![](https://github.com/nhanhapi/manual/blob/master/docs/san-pham/img/sp_icon_cotheban.png)|Là giá trị doanh nghiệp có thể bán sản phẩm, số Có thể bán = Tồn - Lỗi - đang giao hàng - tạm giữ.
+Chờ nhập hàng![](https://github.com/nhanhapi/manual/blob/master/docs/san-pham/img/sp_icon_chonhaphang.png)|Chỉ có trong tab Tồn kho trang chi tiết sản phẩm, ghi nhận số lượng của sản phẩm trong phiếu yêu cầu XNK nhập Nhà cung cấp.
 
 ----
 Xem thêm video giới thiệu Trạng thái tồn kho của sản phẩm:(Youtube updating)
