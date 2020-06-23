@@ -18,14 +18,14 @@ Doanh nghiệp truy cập Khách hàng / Thẻ khách hàng / Tab Phát hành th
 2. Import Excel: Chuyển sang tab Import hoặc truy cập vào đây, tải file mẫu về, nhập liệu, sau đó import lên hệ thống. ==> với cách này, hệ thống không tự sinh mã thẻ mà doanh nghiệp có thể tùy chỉnh được mã thẻ khách hàng theo ý muốn.
 
 Sau khi thêm mới, các đợt phát hành thẻ sẽ xuất hiện tại Danh sách đợt phát hành thẻ khách hàng.
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/danh-sach-dot-phat-hanh-the-1.jpg?token=AQAV53SMYCPMYMROCA7CL2C66GETW)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/danh-sach-dot-phat-hanh-the-1.jpg?token=AQAV53QSJBKWZ3P7BG7I6FC66GJY2)
 Tình huống sử dụng thực tế:
 - Doanh nghiệp Xuất Excel danh sách mã thẻ khách hàng trong 1 đợt, sau đó gửi file Excel cho bên in ấn để họ in thẻ.
 ## II. Gắn khách hàng vào thẻ
 **Trường hợp 1:** Gắn khách vào thẻ trước, rồi gửi thẻ cho khách hàng
        
  - Tại Danh sách đợt phát hành thẻ, click vào số lượng mã thẻ
- ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/danh-sach-dot-phat-hanh-the-2.jpg?token=AQAV53USEUMMFGBXKWQF6J266GEZU)
+ ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/danh-sach-dot-phat-hanh-the-2.jpg?token=AQAV53SJGOBPQAGEQSSQ2MK66GJ5A)
  - Click nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/nut1.jpg) tại từng mã thẻ, chọn Thêm khách hàng. Sau đó nhập các thông tin cần thiết của khách hàng, click Lưu để hoàn tất thao tác.
 
 **Trường hợp 2:** Gửi thẻ cho khách hàng trước, khách đến mua hàng thì gắn khách vào thẻ
@@ -35,4 +35,4 @@ Tình huống sử dụng thực tế:
 - Nhập thông tin khách hàng, click Lưu để hoàn tất.
 
 Sau khi gắn khách hàng vào thẻ, danh sách thẻ sẽ hiển thị đầy đủ thông tin khách hàng như sau:
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/thong-tin-the-khach-hang.jpg?token=AQAV53SQHSVGKYGHKP5K42K66GGMG)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/thong-tin-the-khach-hang.jpg?token=AQAV53SJX5PZPA2TY7AHIXS66GJ6W)
