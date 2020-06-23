@@ -4,7 +4,8 @@ Cài đặt Phân quyền nhân viên cho phép bạn thêm mới, sửa, xóa t
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-1.PNG)
 Cài đặt phân quyền nhân viên gồm 4 tab
 ## Thêm mới / sửa / xóa tài khoản nhân viên
-Thêm mới tài khoản nhân viên [tại đây](https://new.nhanh.vn/store/user/index).
+Thêm mới tài khoản nhân viên [tại đây](https://new.nhanh.vn/store/user/index)
+
 Khi thêm mới tài khoản nhân viên, bạn cần chọn đúng nhóm quyền phù hợp với nhân viên đó. Phần mềm bán hàng Nhanh.vn có các nhóm quyền sau:
 Nhóm quyền |Ý nghĩa
 ------------ | -------------
@@ -21,3 +22,15 @@ Nhân viên nhập liệu| Nhân viên phụ trách việc nhập các thông ti
 Nhân viên thu mua |Là nhân viên phụ trách một số sản phẩm nhất định, làm việc với nhà cung cấp để nhập/trả các sản phẩm mình phụ trách
 Nhà cung cấp | Quyền gắn cho các tài khoản nhà cung cấp, cho phép họ xem được các thông tin liên quan tới sản phẩm của họ bán cho doanh nghiệp
 Nhân viên kiểm soát viên/nhân viên đối soát viên | Quyền dùng để kiểm soát các vấn đề nội bộ trong quá trình kinh doanh của doanh nghiệp
+## Phân quyền nhóm nhân viên
+Nhanh.vn có các nhóm quyền phù hợp với từng bộ phận của doanh nghiệp. Tuy nhiên doanh nghiệp cũng có thể thêm/bớt các quyền trong nhóm quyền đó, bằng cách tích vào các quyền trong tab Phân quyền nhóm nhân viên.
+
+Lưu ý, bạn có thể tìm kiếm tính năng thông qua thanh tìm kiếm, click vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-2.PNG?token=AQA4NCWPVXZI5QREG2JWK7S66GDCA) để hiển thị thanh công cụ tìm kiếm và click vào ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-3.PNG?token=AQA4NCUX7FPUWD5GAW4ANEK66GC6M) để thu gọn thanh công cụ tìm kiếm 
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-4.PNG?token=AQA4NCR45LFKJV32LW75NUK66GD4A)
+## Phân quyền nhân viên
+Dùng trong trường hợp bạn muốn phân quyền riêng cho nhân viên, quy trình thao tác như sau: nhập Tên/user của nhân viên => So sánh với nhóm quyền/nhân viên khác (không bắt buộc) ==> click Lọc ==> Tích chọn các quyền muốn phân cho nhân viên ==> click Lưu.
+
+Lưu ý:
+
+- Bạn click vào nút mui_ten để hệ thống load lại các quyền mặc định của nhân viên trước khi tích thêm/bớt quyền cho nhân viên đó
+- Để chuyển về phân quyền mặc định, doanh nghiệp click vào nút Chuyển về phân quyền mặc định.
