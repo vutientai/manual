@@ -3,12 +3,10 @@ Cài đặt Phân quyền nhân viên cho phép bạn thêm mới, sửa, xóa t
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-1.PNG)
 
-Cài đặt phân quyền nhân viên gồm 4 nhóm chức năng chính:
+---
 
-## Nhân viên
-
-* Nhân viên hiện danh sách toàn bộ các tài khoản của nhân viên trong doanh nghiệp của bạn.
-* Thêm mới tài khoản nhân viên [tại đây](https://new.nhanh.vn/store/user/index)
+## Thêm mới / sửa / xóa tài khoản nhân viên
+Thêm mới tài khoản nhân viên [tại đây](https://new.nhanh.vn/store/user/index)
 
 Khi thêm mới tài khoản nhân viên, bạn cần chọn đúng nhóm quyền phù hợp với nhân viên đó. Phần mềm bán hàng Nhanh.vn có các nhóm quyền sau:
 Nhóm quyền |Ý nghĩa
@@ -32,7 +30,6 @@ Nhanh.vn có các nhóm quyền phù hợp với từng bộ phận của doanh 
 Lưu ý, bạn có thể tìm kiếm tính năng thông qua thanh tìm kiếm, click vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-2.PNG) để hiển thị thanh công cụ tìm kiếm và click vào ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-3.PNG) để thu gọn thanh công cụ tìm kiếm 
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-4.PNG)
-
 ## Phân quyền nhân viên
 Dùng trong trường hợp bạn muốn phân quyền riêng cho nhân viên, quy trình thao tác như sau: nhập Tên/user của nhân viên => So sánh với nhóm quyền/nhân viên khác (không bắt buộc) ==> click Lọc ==> Tích chọn các quyền muốn phân cho nhân viên ==> click Lưu.
 
@@ -52,12 +49,16 @@ Một số lưu ý tại cài đặt này:
 1. Giới hạn quyền xem Danh sách hóa đơn bán lẻ:
 - Tích chọn cài đặt này: Tất cả nhân viên chỉ được nhìn thấy các hóa đơn do nhân viên đó tạo.
 - Cài đặt nâng cao: Giới hạn theo từng nhóm quyền và số ngày xem (nếu có). Lưu ý khi sử dụng cài đặt nâng cao, bạn cần bỏ tích chọn ở cài đặt chung.
+
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-6.PNG)
+
 2. Giới hạn quyền xem Danh sách đơn hàng
 - Tích chọn cài đặt này: Giới hạn tất cả nhân viên chỉ được nhìn thấy các đơn hàng do nhân viên đó tạo.
 - Cài đặt nâng cao: Giới hạn theo từng nhóm quyền và số ngày xem (nếu có). Lưu ý khi sử dụng cài đặt nâng cao, bạn cần bỏ tích chọn ở cài đặt chung.
 - Chi tiết đơn hàng: Cho phép nhân viên xem được chi tiết đơn hàng do nhân viên khác tạo khi có cài đặt giới hạn xem danh sách đơn hàng theo nhân viên tạo.
+
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-7.PNG)
+
 3. Giới hạn quyền xem Chi tiết sản phẩm
 - Tích chọn cài đặt này: Giới hạn nhân viên chỉ xem được tồn kho trong kho mình quản lý ở trang chi tiết sản phẩm.
 - Cài đặt nâng cao: Giới hạn theo từng nhóm quyền và số ngày xem (nếu có). Lưu ý khi sử dụng cài đặt nâng cao, bạn cần bỏ tích chọn ở cài đặt chung.
