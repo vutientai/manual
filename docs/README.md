@@ -14,3 +14,6 @@ Dưới đây là các cách để bạn tìm thông tin trong trang tài liệu
 
 ## Cách tìm kiếm nội dung
 
+- Bạn có thể sử dụng công cụ tìm kiếm ở góc trên cùng bên phải để tìm kiếm các bài viết liên quan, VD:
+  - Dự báo nhập hàng.
+  - Kết nối vận chuyển.
