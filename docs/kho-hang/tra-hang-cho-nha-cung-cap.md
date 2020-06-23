@@ -11,18 +11,23 @@ Thao tác này thường được dùng khi bạn muốn trả lại nhà cung c
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/tra-hang.png?token=AQA6TRFKHHZT2U66REMJXCS66GE4E)
 
 # QUY TRÌNH XUẤT TRẢ SẢN PHẨM CHO NHÀ CUNG CẤP
+
 ## Bước 1: Nhập thông tin liên quan đến sản phẩm xuất trả NCC
+
 Bạn nhập thông tin vào các trường cần thiết, như tên nhà cung cấp, sản phẩm, số lượng, giá...
 
 (*) Lưu ý:
 
 - Đối với loại Sản phẩm là IMEI, cần nhập thêm số IMEI/ Serial tương ứng với 1 sản phẩm cần xuất trả.
 - Nếu sản phẩm xuất trả NCC, có sản phẩm lỗi, cần điền số lượng sản phẩm lỗi vào cột Số lượng lỗi để hệ thống trừ giảm số lượng sản phẩm lỗi.
+
 ## Bước 2: Lưu phiêu trả nhà cung cấp
+
 Bạn click vào Lưu để lưu hóa đơn xuất trả.
 Phiếu xuất trả NCC sau khi lưu, được chuyển về [Danh sách phiếu XNK](https://new.nhanh.vn/inventory/bill/index)
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/danh-sach-phieu-tra.png?token=AQA6TRGAP5EEJP277G4PNWS66GFP4)
 
 ## Bước 3: In phiếu trả nhà cung cấp
+
 ![](https://github.com/nhanhapi/manual/blob/master/docs/kho-hang/img/phieu-tra-hang.png) 
