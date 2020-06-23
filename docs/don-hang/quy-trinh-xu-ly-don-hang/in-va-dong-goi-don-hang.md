@@ -21,7 +21,21 @@ Tại giao diện này người dùng có thể lưa chọn in phiếu giao hàn
 Trong trường hợp muốn chuyển đơn hàng sang kho khác (khi kho mặc định đặt hàng hết hàng), nhân viên CSKH tiến hành đổi trạng thái của đơn hàng sang Đổi kho xuất hàng.
 
 *Phiếu gửi đơn hàng có dạng sau:*
-![chú thích ảnh ví du them-don-hang](link ảnh)
-Xem thêm:
-[Hướng dẫn chia sẻ máy in qua mạng LAN để sử dụng cho nhiều máy tính](https://nhanh.vn/manual/item/view?id=441)
 
+![chú thích ảnh ví du them-don-hang](link ảnh)
+
+Xem thêm:
+
+[- Hướng dẫn chia sẻ máy in qua mạng LAN để sử dụng cho nhiều máy tính](https://nhanh.vn/manual/item/view?id=441)
+[- Cách khắc phục lỗi in thiếu trong quá trình in hóa đơn, phiếu gửi](https://nhanh.vn/manual/item/view?id=414)
+
+**Bước 3: Nhặt hàng**
+- Với những doanh nghiệp ít đơn (khoảng dưới 50 đơn/ngày) thì nhân viên có thể cầm phiếu gửi vào trong kho để nhặt hàng.
+- Với những doanh nghiệp nhiều đơn (trên 50 đơn/ngày) thì nên dùng tính năng Biên bản bàn giao vận đơn, để:
+  - Nhặt hàng nhanh hơn bằng bảng tổng hợp sản phẩm
+  - Gửi nhiều đơn sang hãng vận chuyển cùng lúc
+  - Bưu tá kí nhận vào biên bản bàn giao, tránh mất mát đơn hàng.
+
+Thao tác cụ thể như sau:
+
+- Ở tab In và đóng gói, sau khi in phiếu gửi, doanh nghiệp tick chọn các đơn cùng hãng vận chuyển / click Hành động / chọn Thêm đơn hàng vào biên bản bàn giao / click Lưu đễ hoàn tất thao tác thêm biên bản.
