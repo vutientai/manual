@@ -29,7 +29,7 @@ Có 2 cách để sử dụng tài khoản Gmail cho việc gửi email:
 
 Chú ý: Để sử dụng "Mật khẩu ứng dụng", Bạn cần bật "Xác minh 2 bước" cho tài khoản Google của bạn.
 
-![](https://github.com/nhanhapi/manual/blob/master/docs/cai-dat/img/cai-dat-email-1.PNG)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/cai-dat-email-1.PNG)
 
 Chọn ứng dụng và chọn thiết bị bạn muốn tạo mật khẩu ứng dụng
 
