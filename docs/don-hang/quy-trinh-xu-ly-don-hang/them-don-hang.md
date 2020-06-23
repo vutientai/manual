@@ -30,5 +30,19 @@ Sau khi nhập sản phẩm cho đơn hàng, người dùng có thể click vào
 Nhập thông tin thanh toán (trước/ đặt cọc) của đơn hàng, mức chiết khấu hoặc mã coupon nếu có 
 - Tiền đặt cọc: Nhập số tiền mặt đặt cọc và chọn tài khoản ghi nhận số tiền mặt đã đặt cọc (áp dụng với những doanh nghiệp dùng module kế toán).
 - Tiền chuyển khoản: Nhập số tiền khách hàng chuyển khoản trước cho đơn hàng và tài khoản ghi nhận số tiền chuyển khoản đó (áp dụng với những doanh nghiệp dùng module kế toán).
+
+### 5. Thông tin đơn hàng
+- Nhân viên bán hàng: Nhập tên nhân viên bán hàng
+- Thay đổi trạng thái đơn hàng 
+- Tùy chọn sau khi lưu dữ liệu
+
+**Bước 2. Bấm Lưu hoặc Lưu & In phiếu gửi để hoàn tất các thao tác**
+Doanh nghiệp kiểm tra đơn hàng vừa tạo tại [Danh sách đơn hàng](https://nhanh.vn/order/manage/index)Danh sách đơn hàng. Trạng thái đơn hàng vừa tạo thành công sẽ là **Mới**.
+Có 3 tùy chọn sau khi lưu dữ liệu: Tiếp tục thêm đơn hàng, Về danh sách đơn hàng, Về trang chi tiết đơn hàng.
+
+Có 2 tùy chọn lưu dữ liệu: Lưu (ấn F2) hoặc Lưu và in phiếu gửi (ấn F4).
+
+Giao diện nhập liệu đầy đủ của tab Thêm đơn hàng dùng hãng vận chuyển như sau:
+
 **B. Đối với doanh nghiệp sử dụng vận chuyển qua Nhanh.vn**
 **C. Đối với đơn hàng chưa chốt được sản phẩm: Sử dụng tính năng Đơn hàng nháp**
