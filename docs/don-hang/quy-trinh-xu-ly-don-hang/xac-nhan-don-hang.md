@@ -36,3 +36,17 @@ Trong khi xác nhận đơn hàng, nhân viên CSKH cần kiểm tra về số l
 - Nếu sản phẩm tại kho đặt hàng đang tạm hết hàng, các kho khác vẫn còn hàng, cần chuyển kho đặt hàng hoặc điều chuyển sản phẩm từ kho đó về kho đăng ký đặt hàng.
 - Nếu sản phẩm hết hàng toàn bộ, nhân viên CSKH cần xác nhận với khách hàng hoặc gửi SMS thông báo cho khách hàng biết để khách chuyển sang sản phẩm khác.
 
+**Bước 3:** Sau khi hoàn tất các khâu xác nhận ở trên, nhân viên CSKH click nút **Lưu** hoặc **Lưu và in** để hoàn tất quy trình xác nhận đơn hàng:
+- Lưu: Đơn hàng sẽ chuyển sang trạng thái Đã xác nhận
+- Lưu và in: Phiếu gửi hàng sẽ được in ra, đồng thời đơn hàng chuyển sang trạng thái Đang đóng gói sản phẩm.
+
+Sau khi xác nhận đơn hàng, doanh nghiệp chuyển sang bước [In và đóng gói đơn hàng](https://nhanh.vn/order/manage/index)
+
+**LƯU Ý:**
+- Khi tài khoản có quyền xác nhận đơn hàng thì khi kích vào trạng thái **Mới** ngoài danh sách đơn hàng hoặc kích Tab Xác nhận ở trong chi tiết đơn hàng thì trạng thái đơn sẽ chuyển thành trạng thái **"Đang xác nhận"** và lưu người chăm sóc là tài khoản đã tích xác nhận này
+
+- Để CSKH không lấy đơn hàng của nhau để chăm sóc thì vào Cài đặt -> bật On cài đặt **"Không cho phép xử lý đơn hàng**: Khi một nhân viên CSKH đang xác nhận 1 đơn hàng, không cho phép CSKH khác được xác nhận lại đơn hàng đó (trừ quyền Trưởng nhóm CSKH sẽ vẫn được thao tác tiếp)."
+
+- Trường hợp thay ca của tài khoản chăm sóc thì muốn tài khoản của ca sau chăm sóc và gắn làm người chăm sóc thì tài khoản Giám đốc hoặc tài khoản có quyền đổi trạng thái đơn hàng sẽ đổi trạng thái đơn về **Mới** -> Đơn hàng cho phép tài khoản ca sau chăm sóc và ghi nhận lại người chăm sóc
+
+Bạn có thể tham khảo video hướng dẫn xác nhận đóng gói đơn hàng tại đây:
