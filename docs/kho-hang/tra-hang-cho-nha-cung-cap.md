@@ -22,7 +22,7 @@ Bạn nhập thông tin vào các trường cần thiết, như tên nhà cung c
 Bạn click vào Lưu để lưu hóa đơn xuất trả.
 Phiếu xuất trả NCC sau khi lưu, được chuyển về [Danh sách phiếu XNK](https://new.nhanh.vn/inventory/bill/index)
 
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/danh-sach-phieu-tra.png?token=AQA6TRA4WNBUQQO7AOQKERC66GESM)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/danh-sach-phieu-tra.png?token=AQA6TRGAP5EEJP277G4PNWS66GFP4)
 
 ## Bước 3: In phiếu trả nhà cung cấp
 ![](https://github.com/nhanhapi/manual/blob/master/docs/kho-hang/img/phieu-tra-hang.png) 
