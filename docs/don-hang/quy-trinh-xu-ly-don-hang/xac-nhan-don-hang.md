@@ -35,6 +35,7 @@ Tình trạng:
 
 Trong khi xác nhận đơn hàng, nhân viên CSKH cần kiểm tra về số lượng sản phẩm tồn trong kho của mỗi đơn hàng. 
 
+![Giao diện module Xác nhận đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/xac-nhan-don-hang-3.png)
 - Nếu sản phẩm tại kho đặt hàng đang tạm hết hàng, các kho khác vẫn còn hàng, cần chuyển kho đặt hàng hoặc điều chuyển sản phẩm từ kho đó về kho đăng ký đặt hàng.
 - Nếu sản phẩm hết hàng toàn bộ, nhân viên CSKH cần xác nhận với khách hàng hoặc gửi SMS thông báo cho khách hàng biết để khách chuyển sang sản phẩm khác.
 
