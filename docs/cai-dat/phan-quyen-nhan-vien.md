@@ -16,8 +16,7 @@ Nhân viên bán hàng | Nhân viên phụ trách chăm sóc, tư vấn cho khá
 Chăm sóc khách hàng | Phụ trách xác nhận và xử lý đơn hàng online, xử lý các nghiệp vụ có thể liên quan tới việc tặng tiền, tặng điểm khách hàng, tặng quà nhân ngày sinh nhật
 Trưởng nhóm chăm sóc khách hàng | Là cấp quản lý của nhân viên Chăm sóc khách hàng, để điều phối các hoạt động của CSKH, và xác nhận lại các đơn hàng mà Chăm sóc khách hàng chưa xử lý xong
 Nhân viên kho | Nhân viên phụ trách việc nhập, chuyển kho
-Nhân viên vận chuyển | 	
-Nhân viên phụ trách về chuyển đơn hàng online cho khách đặt mua (thường dùng cho doanh nghiệp có đội vận chuyển riêng, không dùng dịch vụ của các hãng vận chuyển)
+Nhân viên vận chuyển | Nhân viên phụ trách về chuyển đơn hàng online cho khách đặt mua (thường dùng cho doanh nghiệp có đội vận chuyển riêng, không dùng dịch vụ của các hãng vận chuyển)
 Nhân viên nhập liệu| Nhân viên phụ trách việc nhập các thông tin sản phẩm, danh mục, tin tức lên website
 Nhân viên thu mua |Là nhân viên phụ trách một số sản phẩm nhất định, làm việc với nhà cung cấp để nhập/trả các sản phẩm mình phụ trách
 Nhà cung cấp | Quyền gắn cho các tài khoản nhà cung cấp, cho phép họ xem được các thông tin liên quan tới sản phẩm của họ bán cho doanh nghiệp
