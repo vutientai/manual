@@ -8,7 +8,7 @@ Thao tác này thường được dùng khi bạn muốn trả lại nhà cung c
 
 ## Giao diện làm việc hiển thị như sau:
 
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/tra-hang.png?token=AQA6TRCOIYKLKBJ22LBRYJS66GEAE)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/tra-hang.png?token=AQA6TRFKHHZT2U66REMJXCS66GE4E)
 
 # QUY TRÌNH XUẤT TRẢ SẢN PHẨM CHO NHÀ CUNG CẤP
 ## Bước 1: Nhập thông tin liên quan đến sản phẩm xuất trả NCC
