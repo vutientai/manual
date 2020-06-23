@@ -35,3 +35,16 @@ Lưu ý:
 
 - Bạn click vào nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/phan-quyen-nhan-vien-5.PNG?token=AQA4NCTYNL5X5KCFI2UVFXS66GGJC) để hệ thống load lại các quyền mặc định của nhân viên trước khi tích thêm/bớt quyền cho nhân viên đó
 - Để chuyển về phân quyền mặc định, doanh nghiệp click vào nút Chuyển về phân quyền mặc định.
+## Phân quyền xem dữ liệu
+Cho phép doanh nghiệp giới hạn nhân viên chỉ xem được một số dữ liệu do chính nhân viên đó tạo, mà không xem được của nhân viên khác.
+
+Tình huống sử dụng thực tế:
+
+- Doanh nghiệp có 2 nhân viên thu ngân, nên chỉ muốn nhân viên A nhìn thấy hóa đơn mình tạo, không cho phép thấy hóa đơn do nhân viên B tạo, hoặc chỉ nhìn thấy hóa đơn do mình tạo trong vòng 1 tuần trở lại đây.
+- Không cho phép nhân viên này nhìn thấy khách hàng của nhân viên khác
+
+Một số lưu ý tại cài đặt này:
+1. Giới hạn quyền xem Danh sách hóa đơn bán lẻ:
+- Tích chọn cài đặt này: Tất cả nhân viên chỉ được nhìn thấy các hóa đơn do nhân viên đó tạo.
+- Cài đặt nâng cao: Giới hạn theo từng nhóm quyền và số ngày xem (nếu có). Lưu ý khi sử dụng cài đặt nâng cao, bạn cần bỏ tích chọn ở cài đặt chung.
+
