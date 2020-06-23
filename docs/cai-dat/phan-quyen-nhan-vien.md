@@ -5,7 +5,6 @@ Cài đặt Phân quyền nhân viên cho phép bạn thêm mới, sửa, xóa t
 Cài đặt phân quyền nhân viên gồm 4 tab
 ## Thêm mới / sửa / xóa tài khoản nhân viên
 Thêm mới tài khoản nhân viên [tại đây](https://new.nhanh.vn/store/user/index)
-
 Khi thêm mới tài khoản nhân viên, bạn cần chọn đúng nhóm quyền phù hợp với nhân viên đó. Phần mềm bán hàng Nhanh.vn có các nhóm quyền sau:
 Nhóm quyền |Ý nghĩa
 ------------ | -------------
