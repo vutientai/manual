@@ -51,6 +51,7 @@ Giao diện nhập liệu đầy đủ của tab Thêm đơn hàng dùng hãng v
 
 ### **B. Đối với doanh nghiệp tự vận chuyển**
 
+Giao diện làm việc của tab này hoàn toàn giống với tab "Dùng hãng vận chuyển".
 
 ### **C. Đối với đơn hàng chưa chốt được sản phẩm: Sử dụng tính năng Đơn hàng nháp**
 - Đơn nháp là đơn chỉ yêu cầu điền **số điện thoại khách hàng**, không yêu cầu điền đầy đủ các thông tin khác.
@@ -58,6 +59,8 @@ Giao diện nhập liệu đầy đủ của tab Thêm đơn hàng dùng hãng v
 Tính năng này phù hợp cho bộ phận CSKH đang chat / gọi điện với khách, chưa xin được đầy đủ thông tin, chưa chốt được sản phẩm.
 
 - Tại giao diện thêm đơn hàng, bên phải ô nhập Số điện thoại khách hàng, sẽ có thêm 1 icon Lưu đơn nháp, click vào icon này sẽ lưu đơn hàng dưới dạng đơn nháp.
+
+![them-don-hang-5](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/them-don-hang-5.png)
 
 **Chú ý:**
 - Khi lưu đơn nháp, trạng thái mặc định của đơn sẽ là: **Chờ khách xác nhận**.
