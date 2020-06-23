@@ -43,7 +43,8 @@ Nhanh.vn sẽ đối soát các đơn hàng gửi qua hãng vận chuyển để
 
 ## **II. Nghiệp vụ tạo, xử lý đơn hàng**
 ### **1. Khách hàng đặt đơn hàng**
-- Đặt hàng trên website: khách đặt hàng và điền thông tin ở trang thanh toán trên các website mà Nhanh.vn cung cấp, các trang kết nối api với Nhanh.vn, các đơn đặt trên Vật giá/Lazada -> đơn hàng sẽ chuyển về Danh sách đơn hàng.
+- Đặt hàng trên website: khách đặt hàng và điền thông tin ở trang thanh toán trên các website mà Nhanh.vn cung cấp, các trang kết nối api với Nhanh.vn, các đơn đặt trên Shopee/Lazada -> đơn hàng sẽ chuyển về [Danh sách đơn hàng](https://nhanh.vn/order/manage/index).
 - Khách gọi điện thoại đến doanh nghiệp, đặt hàng trên trang fanpage Facebook của doanh nghiệp...
   - Doanh nghiệp vào tạo đơn hàng trong hệ thống, điền đấy đủ các thông tin khách hàng, báo cho khách về phí vận chuyển (nếu có)
   - Doanh nghiệp import đơn hàng để tạo nhiều đơn hàng cùng lúc lên hệ thống.
+- Trường hợp không có doanh nghiệp trên Nhanh.vn, người dùng vẫn có thể đăng nhập để [tạo đơn hàng lẻ](https://nhanh.vn/shipping/shipment/add) miễn phí mà Nhanh.vn cung cấp.
