@@ -26,3 +26,4 @@ Nếu doanh nghiệp sử dụng website của Nhanh.vn, muốn hiển thị thu
 Tên thuộc tính kích thước: Để tên là "Kích thước" hoặc "Size" hoặc "Size số" hoặc "Cỡ"
 Tên thuộc tính màu sắc: Để tên là "Màu" hoặc "Màu sắc"
 Giá trị thuộc tính màu sắc: Điền mã màu tương ứng của màu muốn hiển thị. Xem mã màu tại [đây](https://www.color-hex.com/)
+Video hướng dẫn chi tiết:
