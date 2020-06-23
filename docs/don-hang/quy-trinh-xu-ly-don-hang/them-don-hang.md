@@ -38,11 +38,30 @@ Nhập thông tin thanh toán (trước/ đặt cọc) của đơn hàng, mức 
 
 **Bước 2. Bấm Lưu hoặc Lưu & In phiếu gửi để hoàn tất các thao tác**
 Doanh nghiệp kiểm tra đơn hàng vừa tạo tại [Danh sách đơn hàng](https://nhanh.vn/order/manage/index)Danh sách đơn hàng. Trạng thái đơn hàng vừa tạo thành công sẽ là **Mới**.
+
 Có 3 tùy chọn sau khi lưu dữ liệu: Tiếp tục thêm đơn hàng, Về danh sách đơn hàng, Về trang chi tiết đơn hàng.
 
 Có 2 tùy chọn lưu dữ liệu: Lưu (ấn F2) hoặc Lưu và in phiếu gửi (ấn F4).
 
 Giao diện nhập liệu đầy đủ của tab Thêm đơn hàng dùng hãng vận chuyển như sau:
 
-**B. Đối với doanh nghiệp sử dụng vận chuyển qua Nhanh.vn**
+**B. Đối với doanh nghiệp tự vận chuyển**
+
+
 **C. Đối với đơn hàng chưa chốt được sản phẩm: Sử dụng tính năng Đơn hàng nháp**
+- Đơn nháp là đơn chỉ yêu cầu điền **số điện thoại khách hàng**, không yêu cầu điền đầy đủ các thông tin khác.
+
+Tính năng này phù hợp cho bộ phận CSKH đang chat / gọi điện với khách, chưa xin được đầy đủ thông tin, chưa chốt được sản phẩm.
+
+- Tại giao diện thêm đơn hàng, bên phải ô nhập Số điện thoại khách hàng, sẽ có thêm 1 icon Lưu đơn nháp, click vào icon này sẽ lưu đơn hàng dưới dạng đơn nháp.
+
+**Chú ý:**
+- Khi lưu đơn nháp, trạng thái mặc định của đơn sẽ là: **Chờ khách xác nhận**.
+- Bạn vẫn có thể điền đầy đủ thông tin cho đơn nháp.
+- Đơn nháp vẫn có thể sửa / xác nhận lại thông tin như 1 đơn hàng bình thường.
+- Tính năng này không mở mặc định cho doanh nghiệp, xin quý khách vui lòng liên hệ nhân viên CSKH của Nhanh.vn để được tư vấn và hỗ trợ bật tính năng này.
+
+Sau khi thêm đơn hàng thành công, doanh nghiệp chuyển sang bước Xác nhận đơn hàng.
+
+**Bạn có thể tham khảo video hướng dẫn thêm mới đơn hàng online trực tiếp trên phần mềm tại đây:**
+
