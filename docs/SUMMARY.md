@@ -95,14 +95,6 @@
 ## Báo cáo
 
 * [Giới thiệu về Báo cáo](bao-cao/gioi-thieu.md)
-* Doanh thu
-  * [Theo thời gian](bao-cao/doanh-thu/theo-thoi-gian.md)
-* Đơn hàng
-  * [Tăng trưởng theo thời gian](bao-cao/don-hang/tang-truong-theo-thoi-gian.md)
-* Bán lẻ
-  * [Tổng quan](bao-cao/ban-le/tong-quan.md)
-* Bán buôn
-  * [Tổng quan](bao-cao/ban-buon/tong-quan.md)
 
 ## Kế toán
 
@@ -111,4 +103,8 @@
 ## Bảo hành
 
 * [Giới thiệu về Bảo hành](bao-hanh/gioi-thieu.md)
+
+## Vpage
+
+* [Giới thiệu về Vpage](vpage/gioi-thieu.md)
 
