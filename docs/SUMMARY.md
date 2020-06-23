@@ -47,6 +47,10 @@
 * [Quản lý vị trí sản phẩm trong kho](kho-hang/quan-ly-vi-tri-san-pham-trong-kho.md)
 * [Trả hàng cho nhà cung cấp](kho-hang/tra-hang-cho-nha-cung-cap.md)
 
+## Bán hàng
+
+* [Giới thiệu về Bán hàng](ban-hang/gioi-thieu.md)
+
 ## Đơn hàng
 
 * [Giới thiệu về Đơn hàng](don-hang/gioi-thieu.md)
