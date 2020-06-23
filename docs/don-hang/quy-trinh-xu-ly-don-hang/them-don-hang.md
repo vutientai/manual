@@ -4,7 +4,7 @@ Thêm đơn hàng giúp bạn thêm mới những đơn đặt hàng của khác
 - Khách hàng gọi điện tới shop để đặt hàng, nhân viên xin khách thông tin cá nhân và sản phẩm cần mua, sau đó truy cập vào Thêm đơn hàng để tạo đơn cho khách.
 - Trường hợp khách đặt hàng trên fanpage Facebook, doanh nghiệp có thể vừa chat với khách, vừa tạo đơn hàng bằng phần mềm quản lý fanpage [Vpage.nhanh.vn](http://github.com)
 
-Để thêm đơn hàng, doahnh nghiệp truy cập vào **Đơn hàng**, click **Thêm mới**, chọn **Thêm đơn hàng**, hoặc [tại đây](https://nhanh.vn/order/manage/add).
+Để thêm đơn hàng, doahnh nghiệp truy cập vào **Đơn hàng**, click **Thêm mới**, chọn **Thêm đơn hàng**, hoặc [tại đây](link).
 
 Giao diện Thêm đơn hàng được chia thành 2 tab, tùy theo mục đích sử dụng của doanh nghiệp.
 - Tab Dùng hãng vận chuyển dùng cho doanh nghiệp sử dụng vận chuyển qua Nhanh.vn.
@@ -36,15 +36,17 @@ Nhập thông tin thanh toán (trước/ đặt cọc) của đơn hàng, mức 
 - Thay đổi trạng thái đơn hàng 
 - Tùy chọn sau khi lưu dữ liệu
 
+Doanh nghiệp có thể tìm hiểu thêm về các trường thông tin trên [tại đây](https://manual.nhanh.vn/don-hang/gioi-thieu#9-doi-soat-don-hang)
+
 ### **Bước 2. Bấm Lưu hoặc Lưu & In phiếu gửi để hoàn tất các thao tác**
-Doanh nghiệp kiểm tra đơn hàng vừa tạo tại [Danh sách đơn hàng](https://nhanh.vn/order/manage/index). Trạng thái đơn hàng vừa tạo thành công sẽ là **Mới**.
+Doanh nghiệp kiểm tra đơn hàng vừa tạo tại [Danh sách đơn hàng](link). Trạng thái đơn hàng vừa tạo thành công sẽ là **Mới**.
 
 Có 3 tùy chọn sau khi lưu dữ liệu: Tiếp tục thêm đơn hàng, Về danh sách đơn hàng, Về trang chi tiết đơn hàng.
 
 Có 2 tùy chọn lưu dữ liệu: Lưu (ấn F2) hoặc Lưu và in phiếu gửi (ấn F4).
 
 Giao diện nhập liệu đầy đủ của tab Thêm đơn hàng dùng hãng vận chuyển như sau:
-
+[them-don-hang-4](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/them-%20don-hang-4.png)
 ### **B. Đối với doanh nghiệp tự vận chuyển**
 
 
