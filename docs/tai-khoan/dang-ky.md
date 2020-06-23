@@ -1,9 +1,7 @@
 # Đăng kí tài khoản
 Để đăng ký sử dụng phần mềm bán hàng Nhanh.vn, bạn làm theo các bước sau:
 * Bước 1: Truy cập webiste: https://new.nhanh.vn/
-* Bước 2: Click vào nút
-
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/tai-khoan/img/tai-khoan-1.PNG) 
+* Bước 2: Click vào nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/tai-khoan/img/tai-khoan-1.PNG) 
 
 * Bước 3: Điền đầy đủ các trường thông tin, sau đó click vào nút Đăng ký ngay.
 Tại bước này bạn có thể đăng ký sử dụng đồng thời cả phần mềm và website của Nhanh.vn, lưu ý chọn gói phần mềm phù hợp với nhu cầu của bạn [TẠI ĐÂY](https://new.nhanh.vn/bang-gia-phan-mem), và chọn giao diện website do Nhanh.vn cung cấp [TẠI ĐÂY](https://new.nhanh.vn/kho-giao-dien)
