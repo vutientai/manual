@@ -4,7 +4,7 @@ Thuộc tính là những thông tin mô tả rõ hơn các đặc điểm của
 Doanh nghiệp bán cả quần áo và điện thoại, cần có các thuộc tính như sau:
 
 Nhóm thuộc tính|Tên thuộc tính|Giá trị
---------|------
+--------|------|--------
 Điện thoại|Dung lượng
           
 ## 2. Cách tạo thuộc tính.
