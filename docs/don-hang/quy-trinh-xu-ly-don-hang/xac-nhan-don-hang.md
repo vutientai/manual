@@ -15,7 +15,7 @@ Lưu ý: Khi 1 nhân viên click vào đơn hàng để xác nhận, hệ thốn
 
 **Bước 2:** Giao diện làm việc của module Xác nhận đơn hàng như sau. Ở khâu thao tác này, nhân viên chăm sóc khách hàng (CSKH) của doanh nghiệp cần xác nhận với khách hàng tất cả thông tin về đơn hàng và thay đổi trạng thái đơn hàng.
 
-Tình trạng
+Tình trạng:
 
 **Mới:** Áp dụng với đơn hàng vừa mới tạo.
 
@@ -30,3 +30,9 @@ Tình trạng
 **Hệ thống hủy:** Áp dụng với đơn hàng không liên hệ được với khách, hoặc hết hàng, hoặc lý do khác.
 
 **Thất bại:** Áp dụng với đơn hàng giao không thành công.
+
+Trong khi xác nhận đơn hàng, nhân viên CSKH cần kiểm tra về số lượng sản phẩm tồn trong kho của mỗi đơn hàng. 
+
+- Nếu sản phẩm tại kho đặt hàng đang tạm hết hàng, các kho khác vẫn còn hàng, cần chuyển kho đặt hàng hoặc điều chuyển sản phẩm từ kho đó về kho đăng ký đặt hàng.
+- Nếu sản phẩm hết hàng toàn bộ, nhân viên CSKH cần xác nhận với khách hàng hoặc gửi SMS thông báo cho khách hàng biết để khách chuyển sang sản phẩm khác.
+
