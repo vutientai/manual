@@ -15,7 +15,7 @@
 - Khi đơn hàng mới được tạo thì hệ thống Nhanh.vn không trừ tồn kho và cũng chưa ghi nhận doanh thu. Khi nào đơn hàng thành công hệ thống thì mới trừ kho và tính doanh thu.
 
 ## **I. Các khái niệm trong Đơn hàng**
-## **1. Trạng thái đơn hàng**
+### **1. Trạng thái đơn hàng**
 **Trạng thái** | **Ý nghĩa**
 ------------ | -------------
 Mới | Trạng thái đơn hàng mới tạo
@@ -29,4 +29,4 @@ Thất bại | Nếu hãng vận chuyển gửi hàng đến khách hàng nhưng
 Thành công | Khi đơn hàng đã gửi cho khách thì hãng/doanh nghiệp cần đổi sang trạng thái thành công.
 
 **Bạn có thể tham khảo video hướng dẫn trạng thái sản phẩm và đơn hàng tại đây:**
-
+### **2. Biên bản bàn giao**
