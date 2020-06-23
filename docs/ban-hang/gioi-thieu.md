@@ -115,7 +115,7 @@ Lưu ý: sau khi lưu phiếu sẽ tạo là phiếu nhà cung cấp nhưng hạ
 
 
 
-Test video 
+Test Youtube: 
 
 {% youtube src="https://www.youtube.com/watch?v=dob0P7opv0I" %}{% endyoutube %}
 
