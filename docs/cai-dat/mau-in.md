@@ -3,7 +3,9 @@ Bạn có thể tùy chỉnh mẫu hóa đơn bán lẻ, bán buôn, mẫu phi�
 
 Bạn muốn chèn thêm thông tin vào hóa đơn, chèn thêm logo, địa chỉ website, số điện thoại..., các thông tin khác về hóa đơn, phiếu gửi, sản phẩm...
 Để tùy chỉnh mẫu in, bạn truy cập lần lượt vào Cài đặt / Cài đặt mẫu in, hoặc truy cập [tại đây](https://new.nhanh.vn/store/template/design)
+
 ![Giao diện cài đặt mẫu in hóa đơn bán lẻ](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/cai-dat-mau-in-2.PNG)
+
 ## Đề tùy chỉnh mẫu in, bạn làm như sau:
 ### Bước 1: Chọn mẫu in cần  thiết kế, bao gồm:
 
