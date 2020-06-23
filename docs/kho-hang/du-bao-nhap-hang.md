@@ -28,4 +28,6 @@ Số lượng hàng cần nhập = Số lượng bán dự tính sắp tới - S
 
 Sau khi hệ thống tính được số lượng sản phẩm doanh nghiệp cần nhập thêm, bạn có thể click nút Hành động để xuất Excel danh sách này để đề xuất nhập bổ sung, tránh tình trạng hết hàng.
 
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/du-bao-nhap-hang-f2.png)
+
 Video hướng dẫn thao tác:
