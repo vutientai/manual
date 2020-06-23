@@ -4,7 +4,7 @@ Nhanh.vn là phần mềm quản lý bán hàng đa kênh tốt nhất, được
 
 ---
 
-Trong kho tài liệu này chúng tôi sẽ đưa ra hướng dẫn để giúp bạn sử dụng thành thạo các tính năng của Nhanh.vn, tối ưu quy trình vận hành doanh nghiệp, tăng doanh thu, tiết kiệm chi phí.
+Tài liệu này sẽ hướng dẫn để giúp bạn sử dụng thành thạo các tính năng của Nhanh.vn, tối ưu quy trình vận hành doanh nghiệp, tăng doanh thu, tiết kiệm chi phí.
 
 Dưới đây là các cách để bạn tìm thông tin trong trang tài liệu này được hiệu quả nhất:
 
