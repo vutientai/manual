@@ -34,7 +34,11 @@ Bạn vào mục Khách hàng / Chăm sóc khách hàng / Thêm mới / Tặng �
 - Trị giá: Số điểm cần tặng/trừ
 
 - Khách hàng: nhập danh sách khách hàng bằng số điện thoại
+
+
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/them-moi-cham-soc-khach-hang.jpg)
+
+
 Ở dòng Sau khi lưu dữ liệu:
 
 - Tiếp tục thêm: Sau khi lưu, tiếp tục thao tác với danh sách này
@@ -48,7 +52,11 @@ Bạn vào mục Khách hàng / Chăm sóc khách hàng / Thêm mới / Tặng �
 Bạn vào mục khách hàng hoặc truy cập [tại đây](https://new.nhanh.vn/customer/code/customerlist)
 
 Từ danh sách khách hàng , bạn lọc ra một số khách hàng cần tặng/trừ điểm, sau đó tích chọn các khách hàng này, nhấn Thao tác / chọn Tặng điểm/Trừ điểm. Các thao tác tiếp theo tương tự cách 1.
+
+
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/khach-hang/img/tang-diem-tu-danh-sach-khach-hang.jpg)
+
+
 ## 2. Tặng tiền/Trừ tiền tích luỹ
 Sử dụng khi doanh nghiệp muốn tăng số tiền tích luỹ hiện có của khách hàng mà không cần phát sinh mua hàng
 
