@@ -18,9 +18,10 @@ Bán hàng: Hóa đơn bán lẻ / Hóa đơn trả hàng bán lẻ / Hóa đơn
 Đơn hàng: Phiếu gửi hàng / Phiếu gửi hàng K80 / 4 phiếu gửi 1 trang A4 / Phiếu trả hàng / In nhãn đơn hàng
 Bảo hành: Phiếu tiếp nhận bảo hành / Phiếu trả bảo hành
 Kế toán: Phiếu thu / Phiếu chi / Báo có (nộp tiền) / Báo nợ (rút tiền) / Phiếu thu hộ trả góp.
-Bước 2:Thiết kế mẫu in:
+### Bước 2:Thiết kế mẫu in:
 Khi thiết kế mẫu in, bạn click vào ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/cai-dat-mau-in-4.PNG) để chèn các từ khóa vào mẫu in, sao cho bản in ra hiển thị đúng thông tin.
-Bước 3. Sau khi thiết kế mẫu in xong, bạn click Lưu để hoàn tất
+
+### Bước 3. Sau khi thiết kế mẫu in xong, bạn click Lưu để hoàn tất
 Các mẫu in do bạn thiết kế sẽ xuất hiện tại Danh sách mẫu in.
 
 Video hướng dẫn chi tiết:
