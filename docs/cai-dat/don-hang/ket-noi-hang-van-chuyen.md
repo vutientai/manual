@@ -34,7 +34,10 @@
 ![Điền tài khoản và mật khẩu Viettel Post](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-viettel-pos.jpg)
 
 ### Kết nối Việt Nam Post
-- Đang cập nhật
+
+* Bạn truy cập https://nhanh.vn/setting/order/shipping, tìm đến logo Vietnam Post, click nút Kết nối, sau đó điền mã khách hàng VNpost của bạn và click Lưu
+
+![Điền mã khách hàng Vietnam Post](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-vietnam-post.jpg)
 
 ### Kết nối JT Express
 - Đang cập nhật
