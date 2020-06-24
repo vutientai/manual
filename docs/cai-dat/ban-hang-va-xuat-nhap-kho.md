@@ -11,3 +11,5 @@ Bạn dùng cài đặt này khi:
 Truy cập Cài đặt bán hàng và XNK [tại đây](https://new.nhanh.vn/setting/store/sale)
 
 Bạn xem video hướng dẫn cài đặt bán hàng XNK tại đây:
+
+{% youtube src="https://www.youtube.com/watch?v=YP_nLcU1XEU" %}{% endyoutube %}
