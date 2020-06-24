@@ -32,3 +32,5 @@ Khi thiết kế mẫu in, bạn click vào
 Các mẫu in do bạn thiết kế sẽ xuất hiện tại Danh sách mẫu in.
 
 Video hướng dẫn chi tiết:
+
+{% youtube src="https://www.youtube.com/watch?v=YYKZ-yQ0BFQ" %}{% endyoutube %}
