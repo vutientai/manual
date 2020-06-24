@@ -28,7 +28,7 @@ Trạng thái: trạng thái hiển thị menu: hiển thị hoặc ẩn
 
 ## 2. Danh sách menu: 
 
-Menu sau khi được thêm mới, sẽ hiển thị tại Danh sách menu (/website/menu/index)
+Menu sau khi được thêm mới, sẽ hiển thị tại Danh sách menu [tại đây](https://new.nhanh.vn/website/menu/index)
 
 Một số khái niệm:
 
