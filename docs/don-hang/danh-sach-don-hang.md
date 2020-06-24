@@ -36,6 +36,7 @@ Xem thêm chi tiết về Bộ lọc [tại đây](link).
   - Cập nhật hãng vận chuyển: Dùng để cập nhật những thay đổi của đơn hàng cho hãng vận chuyển.
   
   ## IV. Thông tin đơn hàng
+  
  ![Giao diện làm việc của thông tin đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/danh-sach-don-hang-1.png)
   
 - Nút tick chọn ![Giao diện làm việc](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-2.png): Cho phép thao tác chọn ID các đơn hàng để thực hiện các nghiệp vụ khác, ví dụ như In nhiều đơn hàng,...
