@@ -95,7 +95,9 @@ Tiền trả góp | Ghi nhận thanh toán bằng trả góp của khách hàng,
 Ngày hẹn thanh thoán | Ngày hẹn thanh toán khi chưa điền đủ tiền thanh toán đơn hàng, nếu không điền hệ thống sẽ mặc định nợ 7 ngày, với doanh nghiệp dùng kế toán sẽ ghi nhận vào danh sách nợ
 Mã thẻ khách hàng | Hỗ trợ chăm sóc khách hàng của doanh nghiệp bằng mã thẻ khách hàng
 Tên khách hàng, Điện thoại, Email, Địa chỉ, Quận huyện thành phố, Ngày sinh, Giới tính, Facebook, Công ty, Mã số thuế | Các thông tin của khách hàng cung cấp doanh nghiệp (nếu có), để lưu được khách hàng thì bắt buộc phải có số điện thoại
-Phí trả hàng | Phí tính cho khách hàng khi khách hàng trả lại (nếu có). Lưu ý:
+Phí trả hàng | Phí tính cho khách hàng khi khách hàng trả lại (nếu có).
+
+Lưu ý:
 - Trả hóa đơn bán lẻ hệ thống sẽ tự động trừ điểm tích lũy với hóa đơn bán lẻ đã được tặng.
 - Nếu bạn cài đặt "Chuyển điểm tích lũy thành phí trả hàng" thì hệ thống sẽ tự động quy đổi điểm mà khách hàng thiếu để trả lại thành phí trả hàng.
 - Hệ thống không tự động hạch toán số tiền thừa mà khách hàng đưa cho doanh nghiệp, nên bạn cần điền đúng số tiền khách cần thành toán hoặc tạo phiếu chi bằng tay để hạch toán tiền thừa trả lại cho khách hàng
@@ -115,12 +117,7 @@ Lưu ý: sau khi lưu phiếu sẽ tạo là phiếu nhà cung cấp nhưng hạ
 
 
 
-
 Test Youtube: 
 
 {% youtube src="https://www.youtube.com/watch?v=dob0P7opv0I" %}{% endyoutube %}
-
-https://www.youtube.com/watch?v=dob0P7opv0I
-
-[[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
 
