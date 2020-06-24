@@ -46,7 +46,7 @@ Copy mật khẩu ứng dụng đã tạo
 
 
 
-![](https://github.com/nhanhapi/manual/blob/master/docs/cai-dat/img/cai-dat-email-4.PNG)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/cai-dat-gui-email-4.PNG)
 
 
 
@@ -73,7 +73,7 @@ _CHI_TIET_HOA_DON_: Chi tiết hóa đơn
 
 
 
-![](https://github.com/nhanhapi/manual/blob/master/docs/cai-dat/img/cai-dat-email-5.PNG)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/cai-dat-email-5.PNG)
 
 
 
