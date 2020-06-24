@@ -14,7 +14,18 @@
 ---
 
 ### Kết nối Giao Hàng Nhanh
-- Đang cập nhật
+
+* Bước 1: Bạn truy cập https://sso.ghn.vn/v2/ssoLogin và đăng nhập bằng tài khoản của GHN
+
+![Đăng nhập GHN Express](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ghn.jpg)
+
+* Bước 2: Bạn truy cập trang https://khachhang.ghn.vn/account, click nút Ẩn/hiện để lấy token
+
+![Lấy token GHN Express](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ghn-1.jpg)
+
+* Bước 3: Truy cập https://nhanh.vn/setting/order/shipping, tìm đến logo GHN, click nút Kết nối, sau đó điền token và click Lưu
+
+![Điền token vào mục cài đặt vận chuyển trên Nhanh](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ghn-2.jpg)
 
 ### Kết nối Viettel Post
 - Đang cập nhật
