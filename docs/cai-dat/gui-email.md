@@ -40,6 +40,7 @@ Copy mật khẩu ứng dụng đã tạo
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/cai-dat-email-3.PNG)
 
 * Bước 3: Copy mật khẩu điền vào phần mật khẩu khi cài đặt gửi mail
+
 ## 3. Quy trình cài đặt email như sau:
 ### Bước 1: Cài đặt tài khoản gửi email
 - Nếu bạn không cài đặt tài khoản, hệ thống sẽ gửi đi bằng tài khoản mặc định là no-reply@nhanh.vn
