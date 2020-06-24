@@ -46,7 +46,10 @@
 ![Điền mã khách hàng J&T Express](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-jt-express.jpg)
 
 ### Kết nối Ahamove
-- Đang cập nhật
+
+* Bạn truy cập https://nhanh.vn/setting/order/shipping, tìm đến logo Ahamove, click nút Kết nối, sau đó điền số điện thoại bạn dùng để đăng nhập Ahamove và click Lưu
+
+![Điền số điện thoại đăng nhập Ahamove](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ahamove.jpg)
 
 ### Kết nối EcoTrans
 - Đang cập nhật
