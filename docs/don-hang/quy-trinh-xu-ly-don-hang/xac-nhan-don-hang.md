@@ -19,8 +19,6 @@ Lưu ý: Khi 1 nhân viên click vào đơn hàng để xác nhận, hệ thốn
 
 Tình trạng:
 
-**Mới:** Áp dụng với đơn hàng vừa mới tạo.
-
 **Chờ xác nhận:** Áp dụng với đơn hàng đang chờ người bán xác nhận.
 
 **Đã xác nhận:** Áp dụng với đơn hàng khách đồng ý nhận hàng.
@@ -30,8 +28,6 @@ Tình trạng:
 **Khách hủy:** Áp dụng với đơn hàng khách không đồng ý nhận hàng.
 
 **Hệ thống hủy:** Áp dụng với đơn hàng không liên hệ được với khách, hoặc hết hàng, hoặc lý do khác.
-
-**Thất bại:** Áp dụng với đơn hàng giao không thành công.
 
 Trong khi xác nhận đơn hàng, nhân viên CSKH cần kiểm tra về số lượng sản phẩm tồn trong kho của mỗi đơn hàng. 
 
