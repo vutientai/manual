@@ -48,4 +48,24 @@ Sau khi cài đặt thẻ META_TITLE, website hiển thị như hình minh họa
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/hien-thi-meta-title.png)
 
+- **META_KEYWORDS, META_DESCRIPTION:** là 02 thẻ phục vụ công việc SEO từ khóa của doanh nghiệp.
+Đối với 02 trường này, doanh nghiệp nhập liệu các từ khóa (phổ thông và đặc trưng) liên quan tới sản phẩm của doanh nghiệp. Khi khách hàng gõ các từ khóa đó, các công cụ tìm kiếm sẽ tổng hợp các kết quả tìm kiếm có liên quan trực tiếp và gián tiếp đến sản phẩm của doanh nghiệp, hiển thị lên bảng kết quả tìm kiếm. Khách hàng có thể thể truy cập vào website của doanh nghiệp thông qua các đường link tìm kiếm này. 
+
+Thao tác nhập liệu và chỉnh sửa giống như phần trên.
+
+- **FOOTER_RIGHT_TITLE:** Thể hiện Chủ đề phía bên phải Footer (chân trang)
+- **FOOTER_RIGHT:** Thể hiện Thông tin bên dưới thẻ FOOTER_RIGHT_TITLE. Tại trường này, doanh nghiệp có thể chủ động chỉnh sửa bố cục của thông tin gồm: size chữ, font chữ, màu chữ,...
+- **SHIPPING_POLICY:** Thể hiện Chính sách (cấu hình) phí vận chuyển.
+- **ORDER_PRODUCT_POLICY:** Thể hiện Chính sách đặt hàng sản phẩm.
+- **PAYMENT_POLICY:** Thể hiện Chính sách thanh toán.
+- **HOTLINE:** Đường dây nóng của doanh nghiệp.
+- **SUBSCRIBLE_TITLE:** Chủ đề của phần đăng ký theo dõi tin tức từ doanh nghiệp.
+- **SUBSCRIBLE_DESCRIPTION:** Mô tả nội dung của trường đăng ký nhận thông tin từ doanh nghiệp.
+- **DELIVERY_POLICY_LINK:** Nhúng đường link trỏ về Chính sách vận chuyển của doan nghiệp. Tương ứng với danh mục "Đổi hàng trong vòng 3 ngày" tại Footer.
+- **ORDER_PRODUCT_POLICY_LINK:** Nhúng đường link trỏ về Chính sách đặt hàng online của doanh nghiệp. Tương ứng với danh mục "Mua hàng trực tiếp tại website/ Facebook" tại Footer.
+- **PAYMENT_POLICY_LINK:** Nhúng đường link trỏ về Chính sách thanh toán của doanh nghiệp. Tương ứng với danh mục "Giao hàng toàn quốc" tại Footer.
+- **SOCIAL_FACEBOOK:** Nhúng link mạng xã hội facebook (fanpage facebook) của doanh nghiệp nếu có.
+- **SALE_BACKGROUND:** Thể hiện Màu nền của trang khuyến mại trên website.
+Tại trường này, người dùng nhập mã màu nền muốn sử dụng cho trang khuyến mại (Xem bảng mã màu tại đây hoặc tìm kiếm trên các thanh công cụ tìm kiếm). Hoặc sử dụng giá trị mặc định từ giao diện có sẵn.
+
 
