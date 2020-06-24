@@ -12,6 +12,7 @@ Các nghiệp vụ mà bạn có thể thực hiện trong Bán hàng
 - [Xem danh sách hóa đơn bán lẻ](https://nhanh.vn/pos/bill/index)
 - [Xem danh sách hóa đơn bán buôn](https://nhanh.vn/pos/bill/wholesale)
 - [Xem danh sách hóa đơn trả hàng](https://nhanh.vn/product/retail/returns)
+
 ## I.Quy trình bán Lẻ/bán Buôn
 
 1- Khách lấy sản phẩm muốn mua ra quầy thu ngân
