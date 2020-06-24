@@ -21,7 +21,7 @@ Có 2 cách để sử dụng tài khoản Gmail cho việc gửi email:
 
 - Sử dụng luôn tài khoản Google bình thường của bạn: cách này bạn sẽ cần tắt chế độ "Xác minh 2 bước". Nhanh.vn khuyến cáo bạn không nên dùng cách này.
 
-- Tạo mật khẩu ứng dụng cho tài khoản Google của bạn, dùng mật khẩu này thay thế cho mất khẩu chính, chú ý bạn không nên đặt mật khẩu này giống với mật khẩu chính của tài khoản Google (khuyến cáo bạn nên dùng cách này).
+- Tạo mật khẩu ứng dụng cho tài khoản Google của bạn, dùng mật khẩu này thay thế cho mật khẩu chính, chú ý bạn không nên đặt mật khẩu này giống với mật khẩu chính của tài khoản Google (khuyến cáo bạn nên dùng cách này).
 
 * Bước 1: truy cập vào link sau: https://myaccount.google.com/security
 
