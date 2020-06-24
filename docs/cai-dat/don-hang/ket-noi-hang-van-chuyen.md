@@ -28,7 +28,10 @@
 ![Điền token vào mục cài đặt vận chuyển trên Nhanh](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ghn-2.jpg)
 
 ### Kết nối Viettel Post
-- Đang cập nhật
+
+* Bạn truy cập https://nhanh.vn/setting/order/shipping, tìm đến logo Viettel Post, click nút Kết nối, sau đó điền tài khoản và mật khẩu Viettel Post vào và click Lưu
+
+![Điền tài khoản và mật khẩu Viettel Post](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-viettel-pos.jpg)
 
 ### Kết nối Việt Nam Post
 - Đang cập nhật
