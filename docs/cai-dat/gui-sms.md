@@ -11,7 +11,7 @@
 
 Và nhiều tình huống khác nữa. Để cài đặt gửi SMS, bạn truy cập vào mục Cài đặt / Cài đặt SMS, hoặc truy cập tại đây
 
-## 1: Cài đặt tài khoản gửi SMS
+## 1. Cài đặt tài khoản gửi SMS
 Bạn có thể liên hệ 1 trong số các cổng SMS Nhanh.vn đang hỗ trợ kết nối gồm: Esms, Mocmedia, InfoBip, Abenla, Incom, OneSms, Gapit, VMG Media, kí hợp đồng để lấy tài khoản kết nối API, sau đó nhập thông tin vào mục Cài đặt tài khoản gửi SMS và click Lưu.
 
 Tùy vào mỗi bên cung cấp dịch vụ SMS mà họ có thể gọi tên khác nhau tuy nhiên sẽ có 3 thông tin cơ bản là Brand name, tài khoản và mật khẩu đăng nhập.
