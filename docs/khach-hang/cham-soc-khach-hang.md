@@ -78,5 +78,5 @@ Bạn vào mục Khách hàng / Chăm sóc khách hàng / Thêm mới / Chọn N
 Các thao tác tiếp theo tương tự Tặng điểm/Trừ điểm tích luỹ.
 ### 4.2. Sử dụng khi muốn gửi trực tiếp SMS / Email từ phần mềm Nhanh
 Hiện tại Nhanh đã có sẵn các cài đặt gửi SMS / Email tự động khi khách hàng mua hàng, đặt hàng,...
-- Bạn vào cài đặt / gửi SMS hoặc truy cập [tại đây](https://new.nhanh.vn/setting/sms/index) xem hướng dẫn cài đặt gửi SMS tại đây
-- Bạn vào cài đặt / gửi Email hoặc truy cập [tại đây](https://new.nhanh.vn/setting/email/index)  xem hướng dẫn cài đặt gửi Email tại đây
+- Bạn vào cài đặt / gửi SMS hoặc truy cập [tại đây](https://new.nhanh.vn/setting/sms/index) xem hướng dẫn cài đặt gửi SMS [tại đây](https://manual.nhanh.vn/cai-dat/gui-sms)
+- Bạn vào cài đặt / gửi Email hoặc truy cập [tại đây](https://new.nhanh.vn/setting/email/index)  xem hướng dẫn cài đặt gửi Email [tại đây](https://manual.nhanh.vn/cai-dat/gui-email)
