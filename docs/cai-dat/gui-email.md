@@ -73,10 +73,27 @@ _CHI_TIET_HOA_DON_: Chi tiết hóa đơn
 
 
 
-![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/cai-dat-email-5.PNG)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/cai-dat-gui-email-5.PNG)
 
 
 
 Sau khi cài đặt email thành công, mỗi lần phát sinh hành động mua hàng tại quầy, đặt hàng online..., khách hàng sẽ nhận được email có dạng như sau:
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/cai-dat-email-6.jpg)
+
+Thông tin chi tiết email:
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/cai-dat-email-7.jpg)
+
+## 4. Gửi Email định kỳ (Gửi theo lịch hẹn định giờ):
+- Gửi email trước ngày sinh nhật khách hàng: Thường dùng để gửi mã giảm giá, hoặc chính sách giảm giá cho khách mua vào ngày sinh nhật.
+
+- Gửi email vào ngày sinh nhật khách hàng: Thường dùng để gửi lời chúc, gửi mã giảm giá chúc mừng sinh nhật khách hàng.
+
+- Gửi email sau khi khách mua hóa đơn, sản phẩm bao nhiêu ngày: Thường dùng để gửi nhắc khách quay lại mua hàng.
+
+VD: Sau khi khách mua 1 bình gas, sau 30 ngày sẽ Gửi Email nhắc khách cần thay gas.
+
+
 
 
