@@ -36,9 +36,9 @@ Xem thêm chi tiết về Bộ lọc [tại đây](link).
   - Cập nhật hãng vận chuyển: Dùng để cập nhật những thay đổi của đơn hàng cho hãng vận chuyển.
   
   ## IV. Thông tin đơn hàng
- ![Giao diện làm việc của thông tin đơn hàng](limk)
+ ![Giao diện làm việc của thông tin đơn hàng](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/danh-sach-don-hang-1.png)
   
-- Nút tick chọn ![Giao diện làm việc](limk): Cho phép thao tác chọn ID các đơn hàng để thực hiện các nghiệp vụ khác, ví dụ như In nhiều đơn hàng,...
+- Nút tick chọn ![Giao diện làm việc](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-2.png): Cho phép thao tác chọn ID các đơn hàng để thực hiện các nghiệp vụ khác, ví dụ như In nhiều đơn hàng,...
 - ID: Mỗi đơn hàng có 01 ID, nhằm mục đích phân biệt với các đơn hàng khác. Phần ID tổng hợp luôn thông tin thời gian đặt hàng và loại đơn hàng. Khi click vào ID đơn hàng, hệ thống sẽ chuyển sang giao diện Chi tiết đơn hàng.
 - Khách hàng: Hiển thị thông tin khách hàng đặt hàng bao gồm: Họ tên, Số điện thoại, Địa chỉ. Khi click vào số điện thoại, hệ thống sẽ lọc ra toàn bộ các đơn hàng của khách hàng đó.
 - Sản phẩm: Hiển thị danh sách sản phẩm khách hàng đã đặt hàng.
@@ -47,8 +47,8 @@ Xem thêm chi tiết về Bộ lọc [tại đây](link).
 - Vận chuyển: Hiển thị các thông tin vận chuyển của đơn hàng: Ngày nhận hàng, Phí vận chuyển, Phí thu tiền hộ, Phí thu của khách, Hãng vận chuyển. Tìm hiểu thêm [tại đây](linlk).
 - Thanh toán: Hiển thị số tiền khách đã thanh toán trước cho đơn hàng (do khuyến mại giảm giá hoặc do khách hàng đã chuyển khoản.
 - Tổng thu: Là tổng thu của đơn hàng sau khi trừ đi chiết khấu khuyến mại.
-- Ghi chú: Hiển thị những ghi chú, mô tả của khách hàng/ nhân viên chăm sóc khách hàng về đơn hàng. Cho phép click để sửa ngay tại biểu tượng ![Giao diện làm việc](limk).
-- Trạng thái: Cho phép doanh nghiệp biết được tình trạng của 01 đơn hàng. Xem thêm các trạng thái đơn hàng [tại đây](link). Bên dưới trạng thái đơn hàng là nút thao tác nhanh  ![Giao diện làm việc](limk) cho phép doanh nghiệp:
+- Ghi chú: Hiển thị những ghi chú, mô tả của khách hàng/ nhân viên chăm sóc khách hàng về đơn hàng. Cho phép click để sửa ngay tại biểu tượng ![Giao diện làm việc](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/danh-sach-don-hang-2.png).
+- Trạng thái: Cho phép doanh nghiệp biết được tình trạng của 01 đơn hàng. Xem thêm các trạng thái đơn hàng [tại đây](link). Bên dưới trạng thái đơn hàng là nút thao tác nhanh  ![Giao diện làm việc](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/in-dong-goi-3.png) cho phép doanh nghiệp:
   - Tạo hóa đơn bán lẻ: Dùng khi khách hàng đã đặt hàng và muốn đến mua tại quầy. Click vào lựa chọn này để chuyển sang giao diện thêm hóa đơn bán lẻ. Xem thêm [tại đây](link).
   - Sửa đơn hàng: Thay đổi một số thông tin về đơn hàng.
   - Xóa đơn hàng:  Dùng để xóa đơn hàng
