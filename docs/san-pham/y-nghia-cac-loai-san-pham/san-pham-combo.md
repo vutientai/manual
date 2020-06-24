@@ -17,7 +17,7 @@ Bước 1: Tương tự tạo sản phẩm thường (tham khảo tại thêm m�
 Bước 2: Chon loại sản phẩm combo và gắn các sản phẩm trong combo.
 Chọn tab thuộc tính / Chọn loại sản phẩm là sản phẩm Combo / Điền tên sản phẩm con trong combo/ để thêm sản phẩm khác ấn nút “ + “ / Lưu
 
-Ảnh![]()
+Ảnh![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-ynghia-spcombo-1.png)
 
 **:warning: Lưu ý :**
 - Không nhập tồn đầu cho sản phẩm combo.
