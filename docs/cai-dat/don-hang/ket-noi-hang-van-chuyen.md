@@ -52,7 +52,15 @@
 ![Điền số điện thoại đăng nhập Ahamove](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ahamove.jpg)
 
 ### Kết nối EcoTrans
-- Đang cập nhật
+
+* Bước 1: Bạn truy cập trang https://khachhang.ecotrans.vn/ sau đó đăng nhập bằng tài khoản EcoTrans
+* Bước 2: Truy cập vào trang https://khachhang.ecotrans.vn/profile để lấy mã token
+
+![Lấy token EcoTrans](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/lay-token-ecotrans.jpg)
+
+* Bước 3: Truy cập https://nhanh.vn/setting/order/shipping, tìm đến logo EcoTrans, click nút Kết nối, sau đó điền token và click Lưu
+
+![Điền token EcoTrans](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-ecotrans.jpg)
 
 ### Kết nối Giao hàng tiết kiệm
 - Đang cập nhật
