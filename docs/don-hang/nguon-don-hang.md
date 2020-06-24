@@ -13,6 +13,6 @@ Bạn có thể tự thêm mới tên gọi các Nguồn truy cập, hoặc do h
 
 - Khi bạn mua quảng cáo của Google, đường link Google khuyến cáo bạn tạo thường có thêm các tham số utm_source, utm_campaign, utm_medium... Khi khách hàng click từ các link quảng cáo này để nhảy về website của bạn (chỉ áp dụng được với các website đang sử dụng dịch vụ website của Nhanh.vn) hệ thống sẽ tự động bắt các tham số này để đánh dấu chiến dịch quảng cáo của đơn hàng này.
 
-Các báo cáo chi tiết về nguồn đơn hàng và chiến dịch quảng cáo có thể xem ở đây:
+## Các báo cáo chi tiết về nguồn đơn hàng và chiến dịch quảng cáo có thể xem ở đây:
 - Báo cáo đơn hàng theo nguồn [tại đây](link).
 - Báo cáo đơn hàng theo chương trình quảng cáo [tại đây](link).
