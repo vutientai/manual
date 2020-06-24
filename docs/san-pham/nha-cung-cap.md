@@ -11,23 +11,31 @@ Có 2 cách để thêm mới nhà cung cấp
 
 Truy cập vào module Sản phẩm / Nhà cung cấp / Thêm mới / Thêm mới hoặc truy cập tại [đây](https://nhanh.vn/supplier/manage/index?tab=add)
 
-Ảnh 
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-ncc-themmoi.png)
 
 Khai báo các thông tin của nhà cung cấp (thông tin tối thiểu cần phải điền là tên và số điện thoại nhà cung cấp), sau đó ấn Lưu để lưu thông tin nhà cung cấp vào phần mềm.
 
 Hoặc bạn cũng có thể thêm nhanh nhà cung cấp ở bước [Nhập kho](https://nhanh.vn/inventory/bill/import)
-Ảnh
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-ncc-new-xnk-1.png)
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-ncc-new-xnk-2.png)
+
 Sau đó khai báo các thông tin của Nhà cung cấp, rồi ấn Lưu để hoàn tất
 *Cách 2: Nhập từ Excel*
 
 Bước 1: Truy cập vào module Sản phẩm / Nhà cung cấp / Thêm mới / Nhập từ Excel, hoặc truy cập tại [đây](https://nhanh.vn/supplier/manage/index?tab=import):
 
 Giao diện hiển thị như sau:
-ảnh
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-ncc-import-1.png)
+
 Bước 2: Tải file mẫu tuỳ theo phiên bản excel đang cài ở máy tính, sau đó điền đầy đủ thông tin vào những trường (cột) mà doanh nghiệp muốn (mỗi doanh nghiệp có một quy chuẩn nhập liệu thông tin về nhà cung cấp khác nhau).
 
 Mẫu file Excel có dạng như sau:
-ảnh 
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-ncc-import-2.png)
+
 Bước 3: Tải file Import đã nhập liệu lên hệ thống và theo dõi tiến độ import đến khi đạt 100%.
 
 Sau khi upload thành công (hay thất bại) hệ thống sẽ thông báo tới doanh nghiệp. Trường hợp thành công, doanh nghiệp kiểm tra lại danh sách nhà cung cấp vừa Import tại Danh sách nhà cung cấp  tại [đây](https://nhanh.vn/supplier/manage/index)
@@ -44,7 +52,9 @@ Có 2 cách gắn sản phẩm với nhà cung cấp: Gắn trực tiếp trên 
 Bước 1: Người dùng truy cập vào module Sản phẩm / Nhà cung cấp / Sản phẩm nhà cung cấp / Thêm mới / Thêm sản phẩm nhà cung cấp, hoặc truy cập tại [đây](https://nhanh.vn/supplier/product/index?tab=add)
 
 Bước 2: Các thông tin cần khai báo:
-ảnh
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-spncc-new.png)
+
 - Nhà CC: Nhà cung cấp cần gắn sản phẩm
 
 - Loại hàng: Hình thức lấy hàng (mua đứt, ký gửi…)
@@ -56,9 +66,13 @@ Bước 3: Sau khi khai báo xong các thông tin, người dùng ấn Lưu đ�
 Cách 2: Import gắn sản phẩm theo nhà cung cấp từ file Excel
 
 Bước 1: Người dùng truy cập vào module Sản phẩm / Nhà cung cấp / Sản phẩm nhà cung cấp / Thêm mới / Import sản phẩm nhà cung cấp, hoặc truy cập tại [đây](https://nhanh.vn/supplier/product/index?tab=import) 
-ảnh
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-spncc-import.png)
+
 Bước 2: Tải file mẫu, sau đó điền đầy đủ thông tin vào những trường (cột) mà doanh nghiệp muốn (mỗi doanh nghiệp có một quy chuẩn nhập liệu thông tin về nhà cung cấp khác nhau).
-ảnh
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-spncc-excel.png)
+
 Bước 3: Tải file Import đã nhập liệu lên hệ thống và theo dõi tiến độ import đến khi đạt 100%.
 
 Sau khi upload thành công (hay thất bại) hệ thống sẽ thông báo tới doanh nghiệp. Trường hợp thành công, doanh nghiệp kiểm tra lại danh sách nhà cung cấp vừa Import tại Danh sách sản phẩm nhà cung cấp (tại [đây](https://nhanh.vn/supplier/product/index))
