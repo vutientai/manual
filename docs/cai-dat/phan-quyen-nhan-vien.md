@@ -7,6 +7,7 @@ Cài đặt Phân quyền nhân viên cho phép bạn thêm mới, sửa, xóa t
 
 ## Thêm mới / sửa / xóa tài khoản nhân viên
 Thêm mới tài khoản nhân viên [tại đây](https://new.nhanh.vn/store/user/index)
+
 Video hướng dẫn thêm tài khoản nhân viên:
 
 {% youtube src="https://www.youtube.com/watch?v=FY8pd0SQGXc" %}{% endyoutube %}
