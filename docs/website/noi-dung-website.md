@@ -31,3 +31,7 @@ Các giá trị, thông tin trong Nội dung website:
 - Key Name: Là các từ khóa được thiết lập sẵn các vị trí code HTML trên website.
 - Giá trị: Cho phép doanh nghiệp thay đổi thông tin tương ứng của doanh nghiệp tại các Key Name có sẵn.
 Toàn bộ nội dung website (cơ bản hay nâng cao) tùy thuộc vào từng mẫu giao diện cụ thể, ngoài ra có thể thêm hoặc bớt các nội dung cần thiết hay không cần thiết đới với từng doanh nghiệp cụ thể. 
+
+1. Nhập liệu nội dung website trên trang chủ
+
+Để chỉnh sửa, thiết lập nội dung cho trang chủ, người dùng click vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/nut-sua.png)
