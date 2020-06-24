@@ -34,4 +34,18 @@ Toàn bộ nội dung website (cơ bản hay nâng cao) tùy thuộc vào từng
 
 1. Nhập liệu nội dung website trên trang chủ
 
-Để chỉnh sửa, thiết lập nội dung cho trang chủ, người dùng click vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/nut-sua.png)
+Để chỉnh sửa, thiết lập nội dung cho trang chủ, người dùng click vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/nut-sua.png) tại trường Giá trị của các Key Name tương ứng. Cụ thể như sau:
+META_TITLE: Hiển thị chủ đề của website.
+Click vào biểu tượng ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/nut-sua.png) để thiết lập thông tin tương ứng với doanh nghiệp. Nhập tên doanh nghiệp/ tên website,.... vào trường này.
+
+Giao diện hiển thị như sau:
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/meta-title.png)
+
+Click nút ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/nut-luu.png) để lưu lại thông tin vừa thiết lập ở trên.
+
+Sau khi cài đặt thẻ META_TITLE, website hiển thị như hình minh họa bên dưới:
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/hien-thi-meta-title.png)
+
+
