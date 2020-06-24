@@ -44,7 +44,7 @@ Thao tác cụ thể như sau:
 - Vào 
 [Danh sách biên bản bàn giao](link), tìm đến biên bản cần nhặt hàng, click nút ![chú thích ảnh ví du them-don-hang](link ảnh) , chọn In bảng tổng hợp sản phẩm, rồi cầm bảng đó đi nhặt hàng (loại bỏ tình trạng nhặt thiếu sản phẩm, phải nhặt lại nhiều lần).
 
-Xem thêm hướng dẫn sử dụng Biên bản bàn giao vận đơn [tại đây.](link)
+Xem thêm hướng dẫn sử dụng Biên bản bàn giao vận đơn [tại đây.](https://manual.nhanh.vn/don-hang/quy-trinh-xu-ly-don-hang/bien-ban-ban-giao-don-hang-cho-hang-van-chuyen)
 
 **Bước 4 : Đóng gói và dán phiếu gửi lên gói hàng**
 
