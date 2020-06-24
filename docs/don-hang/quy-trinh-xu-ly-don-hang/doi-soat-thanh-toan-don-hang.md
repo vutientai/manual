@@ -9,7 +9,7 @@ Nhanh sẽ check các thông tin về khối lượng, tiền cần thu, cước
 
 Doanh nghiệp có thể kiểm tra danh sách các đơn hàng và số tiền đối soát [tại đây](link).
 
-![Giao diện làm việc của Đối soát COD](link)
+![Giao diện làm việc của Đối soát COD](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/doi-soat-don-hang-1.png)
 
 - Đã thanh toán: Các khoản đối soát từ Nhanh thanh toán cho doanh nghiệp theo ngày, lịch đối soát doanh nghiệp vui lòng tham khảo [tại đây](link). Doanh nghiệp có thể click vào chi tiết từng đợt thanh toán để kiểm tra các đơn hàng được đối soát trong lần đó.
 
@@ -26,10 +26,12 @@ Với doanh nghiệp sử dụng module Kế toán, sau khi doanh nghiệp ấn 
 
 Tham khảo hướng dẫn [tại đây](link).
 
-Đối với doanh nghiệp không dùng tính năng kế toán không cần tạo thêm thao tác gì
+Đối với doanh nghiệp không dùng tính năng kế toán không cần tạo thêm thao tác gì.
+
 ## II. Đối soát tự vận chuyển 
 **Thanh toán đối soát đơn tự vận chuyển**
-(Đang cập nhật)
+
+*(Đang cập nhật)*
 
 ## III. Chiếu khấu cước
 Với các đơn hàng gửi qua Nhanh, doanh nghiệp được hưởng chiết khấu theo quy định tại quy định [tại đây](link).
