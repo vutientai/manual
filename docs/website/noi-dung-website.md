@@ -12,5 +12,22 @@ Giao diện làm việc của module này như sau:
 
 Trong đó:
 
-Tên website trong quá trình thiết lập được gắn có dạng: Tên doanh nghiệp + .store.nhanh.vn: taivt.store.nhanh.vn
-Các danh mục cơ bản trong một website:
+- Tên website trong quá trình thiết lập được gắn có dạng: Tên doanh nghiệp + .store.nhanh.vn: taivt.store.nhanh.vn
+- Các danh mục cơ bản trong một website:
+
+![])(https://github.com/nhanhapi/manual/blob/master/docs/website/img/trang-chu.png)
+
+- Trang chủ: Những nội dung hiển thị trên trang chủ.
+- Trang thanh toán: Những nội dung hiển thị trong trang thanh toán khi khách hàng đặt hàng online.
+- Chân trang: các footer bottom
+- Trang liên hệ: nội về những thông tin của chủ doanh nghiệp
+- Trang chi tiết sản phẩm: Những nội dung hiển thị trong trang chi tiết sản phẩm.
+Trang thanh toán thành công: Những nội dung hiển thị trong trang thanh toán khi khách hàng đặt hàng online thành công.
+Các giá trị, thông tin trong Nội dung website:
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/website/img/key-id.png)
+
+- Key ID: Các ID tương ứng với các từ khóa được thiết lập.
+- Key Name: Là các từ khóa được thiết lập sẵn các vị trí code HTML trên website.
+- Giá trị: Cho phép doanh nghiệp thay đổi thông tin tương ứng của doanh nghiệp tại các Key Name có sẵn.
+Toàn bộ nội dung website (cơ bản hay nâng cao) tùy thuộc vào từng mẫu giao diện cụ thể, ngoài ra có thể thêm hoặc bớt các nội dung cần thiết hay không cần thiết đới với từng doanh nghiệp cụ thể. 
