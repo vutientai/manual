@@ -59,7 +59,10 @@ Có thể bán![](https://github.com/nhanhapi/manual/blob/master/docs/san-pham/i
 Chờ nhập hàng![](https://github.com/nhanhapi/manual/blob/master/docs/san-pham/img/sp_icon_chonhaphang.png)|Chỉ có trong tab Tồn kho trang chi tiết sản phẩm, ghi nhận số lượng của sản phẩm trong phiếu yêu cầu XNK nhập Nhà cung cấp.
 
 ----
-Xem thêm video giới thiệu Trạng thái tồn kho của sản phẩm:(Youtube updating)
+Xem thêm video giới thiệu Trạng thái tồn kho của sản phẩm:
+
+{% youtube src="https://www.youtube.com/watch?v=Wy817QaDnoM" %}{% endyoutube %}
+
 ----
 ## Các khái niệm về trạng thái bán của sản phẩm
 Tên gọi | Mô tả
