@@ -11,6 +11,7 @@ Ví dụ: Bạn có 2 kho, muốn chuyển bớt 3 chiếc 'Quần HM 001 - Đen
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/phieu-yeu-cau-ck.png)
 
 - 1 phiếu yêu cầu Xuất [chuyển kho].
+
 ## Bước 2: Sau khi nhận được hàng, Kho B cần xác nhận phiếu này (Tại [Sắp chuyển đến](https://new.nhanh.vn/inventory/transfer/draft?tab=waitingConfirm))
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/kho-hang/img/phieu-xac-nhan-ck1.png)
