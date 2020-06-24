@@ -6,6 +6,12 @@ Nếu bạn có sản lượng đơn hàng nhiều (khoảng trên 50 đơn) th�
 - Bưu tá kí và xác nhận việc lấy hàng (lấy bao nhiêu đơn, số đơn, ngày giờ lấy hàng)
 - Doanh nghiệp xác nhận việc nhận lại hàng do hãng vận chuyển chuyển hoàn.
 
-Phần này bao gồm
-- [Danh sách biên bản bàn giao vận đơn](link)
-- [Thêm biên bản bàn giao vận đơn](link)
+## I. Danh sách Biên bản bàn giao vận đơn
+Biên bản bàn giao vận đơn dùng để xác nhận một trong hai trường hợp sau : 
+
+- Bạn đã gửi hàng sang cho hãng vận chuyển chưa?
+- Bạn đã nhận lại hàng do hãng vận chuyển chuyển hoàn chưa?
+Để làm việc tại đây, bạn truy cập vào Đơn hàng / Biên bản bàn giao vận đơn, hoặc truy cập tại đây
+
+Giao diện làm việc của Danh sách biên bản bàn giao vận đơn như sau:
+
