@@ -4,9 +4,9 @@ Bảo hành mở rộng giúp bạn cài đặt các gói bảo hành theo Danh 
 
 VD:
 
-Mua thêm 6 tháng Bảo hành iPhone X: 750.000
+Mua thêm 6 tháng Bảo hành DELL: 750.000
 
-Mua thêm 12 tháng Bảo hành iPhone X: 1.200.000
+Mua thêm 12 tháng Bảo hành MACBOOK: 1.200.000
 
 Ở các màn hình bán hàng, bạn có thể chọn mua thêm các gói bảo hành mở rộng này.
 
@@ -18,7 +18,7 @@ Mua thêm 12 tháng Bảo hành iPhone X: 1.200.000
 
 - Lưu ý: các cột Giá từ, Giá đến, Chi phí không được điền giá trị "0"
 
-![](https://raw.githubusercontent.com/hieunguyenduc-nhanh/manual/master/docs/bao-hanh/img/bao-hanh-mo-rong.jpg)
+![](https://raw.githubusercontent.com/hieunguyenduc-nhanh/manual/master/docs/bao-hanh/img/bao-hanh-mo-rong4.jpg)
 
 - Các gói bảo hành mở rộng sau khi được tạo sẽ xuất hiện tại ở [Danh sách bảo hành mở rộng](https://nhanh.vn/warranty/setting/extend)
 
