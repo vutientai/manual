@@ -40,7 +40,10 @@
 ![Điền mã khách hàng Vietnam Post](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-vietnam-post.jpg)
 
 ### Kết nối JT Express
-- Đang cập nhật
+
+* Bạn truy cập https://nhanh.vn/setting/order/shipping, tìm đến logo J&T Express, click nút Kết nối, sau đó điền mã khách hàng J&T Express của bạn và click Lưu
+
+![Điền mã khách hàng J&T Express](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/cai-dat/img/ket-noi-jt-express.jpg)
 
 ### Kết nối Ahamove
 - Đang cập nhật
