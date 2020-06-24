@@ -44,7 +44,9 @@ Copy mật khẩu ứng dụng đã tạo
 ### Bước 1: Cài đặt tài khoản gửi email
 - Nếu bạn không cài đặt tài khoản, hệ thống sẽ gửi đi bằng tài khoản mặc định là no-reply@nhanh.vn
 
+
 ![](https://github.com/nhanhapi/manual/blob/master/docs/cai-dat/img/cai-dat-email-4.PNG)
+
 
 - Bạn chọn Email host, nhập email và mật khẩu, tên của email gửi đi, email nhận phản hồi, sau đó click Lưu. Chú ý:
 Tên của Email gửi đi: chỉ để hiển thị thay thế cho địa chỉ email trong trường hợp có cài đặt, (mặc định không điền thì hệ thống sẽ lấy tên email gửi đi bằng địa chỉ email gửi đi hoặc bằng tên của cửa hàng), khác với tiêu đề email.
@@ -67,7 +69,9 @@ _DANH_SACH_SAN_PHAM_: Danh sách sản phẩm
 
 _CHI_TIET_HOA_DON_: Chi tiết hóa đơn
 
+
 ![](https://github.com/nhanhapi/manual/blob/master/docs/cai-dat/img/cai-dat-email-5.PNG)
+
 
 Sau khi cài đặt email thành công, mỗi lần phát sinh hành động mua hàng tại quầy, đặt hàng online..., khách hàng sẽ nhận được email có dạng như sau:
 
