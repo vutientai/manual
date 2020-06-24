@@ -37,6 +37,9 @@ Khách đưa sản phẩm cho nhân viên quầy cân
 
 Bước 2: Lập phiếu bán hàng
 - Nhân viên thu ngân sử dung máy quét mã vạch để tiến hành lập hóa đơn bán hàng như bình thường (Lưu ý cần chọn trường quét mã vạch là Cân điện tử)
+
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-ynghia-spcando-4.png)
+
 sau đó dùng máy quét mã vạch để scan chuỗi Mã vạch được in trên tem Gói sản phẩm vừa đóng gói.
 Hệ thống Nhanh.vn sẽ ghi nhận và xử lý các thao tác bán hàng như bình thường.
 Quy trình bán hàng, Doanh nghiệp vui lòng tham khảo phần Thêm hóa đơn bán lẻ.
