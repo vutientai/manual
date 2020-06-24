@@ -3,10 +3,7 @@ Thuộc tính là những thông tin mô tả rõ hơn các đặc điểm của
 ## 1. Tình huống.
 Doanh nghiệp bán cả quần áo và điện thoại, cần có các thuộc tính như sau:
 
-Nhóm thuộc tính|Tên thuộc tính|Giá trị
---------|------|--------
-Điện thoại|Dung lượng
-          |Tình trạng
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/san-pham/img/sp-thuoctinh.png)
           
 ## 2. Cách tạo thuộc tính.
 Bước 1. Thêm mới thuộc tính tại: https://nhanh.vn/product/variant/index?tab=add (Truy cập lần lượt vào Sản phẩm / Danh sách thuộc tính / Thêm mới / Thêm thuộc tính)
