@@ -2,7 +2,7 @@
 
 Cài đặt website dùng để thiết lập các thông tin cơ bản về website của doanh nghiệp.
 
-Để thực hiện thao tác cài đặt tại đây, người dùng truy cập theo module Website/ cài đặt website (*) hoặc tại đây.
+Để thực hiện thao tác cài đặt tại đây, người dùng truy cập theo module Website/ cài đặt website (*) hoặc [tại đây](https://new.nhanh.vn/website/content/config).
 
 Một số khái niệm
 
