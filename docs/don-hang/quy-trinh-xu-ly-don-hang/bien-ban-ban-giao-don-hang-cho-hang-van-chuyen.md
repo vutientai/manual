@@ -44,17 +44,17 @@ Trong đó:
 
 ![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-2.png)
 
-- ![doi-soat-don-hang ](link): Hiển thị ID của biên bản bàn giao vận đơn (do hệ thống tự sinh, khi click vào sẽ chuyển đến trang chi tiết biên bản bàn giao vận đơn) và ô chọn ![doi-soat-don-hang ](link) cho phép doanh nghiệp tích chọn một hay nhiều biên bản để thao tác.
+- ![doi-soat-don-hang ](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-4.png): Hiển thị ID của biên bản bàn giao vận đơn (do hệ thống tự sinh, khi click vào sẽ chuyển đến trang chi tiết biên bản bàn giao vận đơn) và ô chọn ![doi-soat-don-hang ](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-4.png) cho phép doanh nghiệp tích chọn một hay nhiều biên bản để thao tác.
 - **Hãng vận chuyển:** Hiển thị tên hãng vận chuyển và số lần in biên bản bàn giao. Nếu đơn hàng tự vận chuyển thì sẽ hiện chữ "Tự vận chuyển"
 - **Kho:** Kho hàng / Cửa hàng lập biên bản bàn giao.
 - **Loại:** Gửi hàng chuyển đi và Nhận hàng hoàn về.
   - Gửi hàng: Dùng để xác nhận việc doanh nghiệp đã giao hàng cho hãng vận chuyển để giao đi cho khách hàng.
   - Chuyển hoàn: Dùng để xác nhận việc doanh nghiệp đã nhận lại hàng hoàn từ hãng vận chuyển.
-- **Số vận đơn:** Mục này cho biết số  đơn hàng có trong biên bản bàn giao. Ví dụ biểu tượng ![doi-soat-don-hang ](link) được hiểu trong biên bản bàn giao này có 01 đơn hàng. 
+- **Số vận đơn:** Mục này cho biết số  đơn hàng có trong biên bản bàn giao. 
 - **Mô tả:** Hiển thị tất cả những mô tả, ghi chú thêm về biên bản bàn giao.
 - **Ngày bàn giao:** Hiển thị ngày bàn giao vận đơn trong biên bản
 - **Người tạo:** Hiển thị người tạo biên bản bàn giao
-- **Nút thao tác nhanh:** ![doi-soat-don-hang ](link) gồm các tùy chọn:
+- **Nút thao tác nhanh:** ![bien-ban-ban-giao](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-3.png) gồm các tùy chọn:
   - In biên bản với giao diện đầy đủ (có kèm theo sản phẩm) và rút gọn
   - Thêm đơn hàng vào biên bản: Dùng để thêm đơn vào biên bản bàn giao cho hãng vận chuyển khi hãng vận chuyển đang nhận hoặc chưa đến nhận bàn giao.(Không dùng trong trường hợp đã lấy hàng).
   - Xóa biên bản bàn giao vận đơn
