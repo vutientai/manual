@@ -27,3 +27,4 @@ Phiếu nháp xuất nhập kho có thể giúp ước tính số lượng hàng
 
 
 
+
