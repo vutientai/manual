@@ -9,7 +9,7 @@ Nhanh sẽ check các thông tin về khối lượng, tiền cần thu, cước
 
 Doanh nghiệp có thể kiểm tra danh sách các đơn hàng và số tiền đối soát [tại đây](link).
 
-![Giao diện làm việc của Đối soát COD](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/doi-soat-don-hang-1.png)
+![Giao diện làm việc của Đối soát COD](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/doi-soat-%20don-hang%20-1.png)
 
 - Đã thanh toán: Các khoản đối soát từ Nhanh thanh toán cho doanh nghiệp theo ngày, lịch đối soát doanh nghiệp vui lòng tham khảo [tại đây](link). Doanh nghiệp có thể click vào chi tiết từng đợt thanh toán để kiểm tra các đơn hàng được đối soát trong lần đó.
 
