@@ -13,3 +13,5 @@ Tại bước này bạn có thể đăng ký sử dụng đồng thời cả ph
 * Bước 5: Để đăng nhập vào Nhanh.vn, bạn truy cập vào website https://new.nhanh.vn/, sau đó click vào nút Đăng nhập ở góc trên bên phải màn hình để bắt đầu sử dụng phần mềm Nhanh.vn.
 
 Video hướng dẫn chi tiết:
+ 
+{% youtube src="https://www.youtube.com/watch?v=LymV4oRaLUw" %}{% endyoutube %} 
