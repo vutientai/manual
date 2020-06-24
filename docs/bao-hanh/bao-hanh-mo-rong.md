@@ -4,7 +4,7 @@ Bảo hành mở rộng giúp bạn cài đặt các gói bảo hành theo Danh 
 
 VD:
 
-Mua thêm 6 tháng Bảo hành DELL: 750.000
+Mua thêm 6 tháng Bảo hành DELL: 860.000
 
 Mua thêm 12 tháng Bảo hành MACBOOK: 1.200.000
 
