@@ -30,4 +30,7 @@ Phiếu xuất trả NCC sau khi lưu, được chuyển về [Danh sách phiế
 
 ## Bước 3: In phiếu trả nhà cung cấp
 
+
 ![](https://github.com/nhanhapi/manual/blob/master/docs/kho-hang/img/phieu-tra-hang.png) 
+
+
