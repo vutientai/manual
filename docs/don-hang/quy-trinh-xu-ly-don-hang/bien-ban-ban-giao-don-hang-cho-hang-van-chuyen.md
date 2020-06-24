@@ -15,11 +15,11 @@ Biên bản bàn giao vận đơn dùng để xác nhận một trong hai trư�
 
 Giao diện làm việc của Danh sách biên bản bàn giao vận đơn như sau:
 
-![Giao diện làm việc của Danh sách biên bản bàn giao](link)
+![Giao diện làm việc của Danh sách biên bản bàn giao](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-1.png)
 
 ### 1. Bộ lọc 
 
-![Giao diện làm việc của Danh sách biên bản bàn giao](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-1.png)
+![Giao diện làm việc của bộ lọc](link)
 
 Trong đó:
 - **ID:** Lọc ID của Biên bản bàn giao. 
@@ -42,7 +42,7 @@ Trong đó:
 
 ### 3. Thông tin trong Biên bản bàn giao vận đơn
 
-![Giao diện làm việc của Danh sách biên bản bàn giao](link)
+![](https://raw.githubusercontent.com/nhanhapi/manual/master/docs/don-hang/img/bien-ban-ban-giao-2.png)
 
 - ![doi-soat-don-hang ](link): Hiển thị ID của biên bản bàn giao vận đơn (do hệ thống tự sinh, khi click vào sẽ chuyển đến trang chi tiết biên bản bàn giao vận đơn) và ô chọn ![doi-soat-don-hang ](link) cho phép doanh nghiệp tích chọn một hay nhiều biên bản để thao tác.
 - **Hãng vận chuyển:** Hiển thị tên hãng vận chuyển và số lần in biên bản bàn giao. Nếu đơn hàng tự vận chuyển thì sẽ hiện chữ "Tự vận chuyển"
