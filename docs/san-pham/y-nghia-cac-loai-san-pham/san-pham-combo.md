@@ -19,7 +19,7 @@ Chọn tab thuộc tính / Chọn loại sản phẩm là sản phẩm Combo / �
 
 Ảnh![]()
 
-*:warning: Lưu ý :*
+**:warning: Lưu ý :**
 - Không nhập tồn đầu cho sản phẩm combo.
 - Ô "SL" bên cạnh tên sản phẩm là số lượng của sản phẩm đó có trong combo.
 ### 3.2. Import sản phẩm Combo từ file excel
