@@ -32,9 +32,9 @@ Menu sau khi được thêm mới, sẽ hiển thị tại Danh sách menu [tạ
 
 Một số khái niệm:
 
-Ảnh: Ảnh đại diện menu, người dùng có thể click vào các icon để thêm, xóa, xem ảnh đại diện
-Icon: Icon menu, người dùng có thể click vào các icon để thêm, xóa, xem ảnh icon
-Thứ tự: Thứ tự hiển thị menu trên webiste, người dùng có thể click trực tiếp vào ô thứ tự để chỉnh sửa thứ tự
-Hiển thị: Thể hiện trạng thái của từng menu. Hiển thị hay Không hiển thị.
-Sửa: Cho phép người dùng chỉnh sửa menu
-Xóa: Cho phép người dùng xóa menu
+- Ảnh: Ảnh đại diện menu, người dùng có thể click vào các icon để thêm, xóa, xem ảnh đại diện
+- Icon: Icon menu, người dùng có thể click vào các icon để thêm, xóa, xem ảnh icon
+- Thứ tự: Thứ tự hiển thị menu trên webiste, người dùng có thể click trực tiếp vào ô thứ tự để chỉnh sửa thứ tự
+- Hiển thị: Thể hiện trạng thái của từng menu. Hiển thị hay Không hiển thị.
+- Sửa: Cho phép người dùng chỉnh sửa menu
+- Xóa: Cho phép người dùng xóa menu
