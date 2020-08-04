@@ -27,4 +27,3 @@ Cài đặt website dùng để thiết lập các thông tin cơ bản về web
 
 - **Facebook FanpageId:** Thông số ID (một dãy số do Facebook cung cấp) trang Fanpage Facebook của doanh nghiệp.
 
-![]()
